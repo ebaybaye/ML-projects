@@ -1,0 +1,963 @@
+country,age_group,travel_with,total_female,total_male,purpose,main_activity,info_source,tour_arrangement,package_transport_int,package_accomodation,package_food,package_transport_tz,package_sightseeing,package_guided_tour,package_insurance,night_mainland,night_zanzibar,payment_mode,first_trip_tz,most_impressing
+NEPAL,25-44,Friends/Relatives,0.0,2.0,Visiting Friends and Relatives,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,12.0,0.0,Cash,No, Wildlife
+NORWAY,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,11.0,3.0,Cash,No, Wildlife
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Volunteering,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,Friendly People
+NIGERIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+ITALY,25-44,Friends/Relatives,1.0,2.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,14.0,Cash,Yes, Wildlife
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,11.0,3.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,
+ITALY,45-64,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,No,Yes,Yes,Yes,No,2.0,0.0,Cash,Yes, Wildlife
+ITALY,45-64,Friends/Relatives,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,Yes,0.0,13.0,Cash,Yes, Wildlife
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,15.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,Yes,No,No,No,No,No,No,15.0,0.0,Cash,Yes,Friendly People
+CANADA,45-64,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Friends/Relatives,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,12.0,0.0,Cash,Yes, Wildlife
+TUNISIA,25-44,Alone,0.0,1.0,Business,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,No,No,No,36.0,0.0,Cash,No,Good service
+ITALY,45-64,Spouse and Children,3.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,6.0,Credit Card,No,Friendly People
+FRANCE,1-24,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes,Friendly People
+SOUTH AFRICA,45-64,Alone,1.0,0.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+BURUNDI,1-24,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Excellent Experience
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Good service
+GERMANY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,6.0,Credit Card,Yes,Friendly People
+ZAMBIA,25-44,Friends/Relatives,0.0,2.0,Business,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,
+UNITED STATES OF AMERICA,45-64,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+SOUTH AFRICA,45-64,,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,5.0,0.0,Credit Card,No,Excellent Experience
+NETHERLANDS,45-64,Spouse and Children,1.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,14.0,4.0,Cash,No, Wildlife
+GERMANY,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,6.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+ZAMBIA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+ZIMBABWE,45-64,Spouse,2.0,1.0,Other,Hunting tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,
+AUSTRALIA,65+,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes, Wildlife
+BURUNDI,45-64,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Children,1.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,61.0,0.0,Credit Card,No,Good service
+ALGERIA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,0.0,11.0,Cash,Yes, Wildlife
+KENYA,25-44,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,No,Good service
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,7.0,3.0,Scientific and Academic,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,Yes,14.0,0.0,Cash,Yes,Friendly People
+CHINA,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,3.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+EGYPT,1-24,Alone,0.0,1.0,Visiting Friends and Relatives,Bird watching,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,6.0,0.0,Cash,Yes,Good service
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,Trade fair,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,Friendly People
+ITALY,45-64,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,3.0,Cash,Yes, Wildlife
+UNITED KINGDOM,25-44,,1.0,0.0,Volunteering,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,36.0,5.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,3.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,35.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SOUTH AFRICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,0.0,6.0,Cash,Yes,No comments
+SOUTH AFRICA,25-44,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,40.0,0.0,Cash,No,Friendly People
+BURUNDI,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,65+,Friends/Relatives,2.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16.0,0.0,Cash,Yes,Friendly People
+KENYA,25-44,Children,2.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,21.0,6.0,Cash,No, Wildlife
+BRAZIL,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,No,No,No,7.0,4.0,Cash,Yes, Wildlife
+CANADA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0,3.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+CANADA,45-64,Children,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,13.0,0.0,Cash,Yes,Good service
+MOZAMBIQUE,45-64,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,6.0,7.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,65+,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Friendly People
+CANADA,45-64,Children,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,No,No,No,Yes,No,No,14.0,5.0,Cash,Yes,Friendly People
+RWANDA,25-44,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,2.0,Cash,Yes,Excellent Experience
+CANADA,25-44,Friends/Relatives,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,42.0,4.0,Cash,Yes,No comments
+KENYA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+ITALY,1-24,Spouse and Children,1.0,3.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,16.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,4.0,Credit Card,Yes, Wildlife
+UNITED KINGDOM,45-64,Alone,0.0,1.0,Business,Hunting tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,0.0,0.0,Credit Card,No,Friendly People
+BURUNDI,1-24,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,Excellent Experience
+GERMANY,25-44,Friends/Relatives,1.0,2.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Package Tour,Yes,Yes,No,Yes,Yes,No,No,17.0,3.0,Cash,Yes,
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Hunting tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,0.0,Cash,Yes,Excellent Experience
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No, Wildlife
+BELGIUM,1-24,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+KENYA,25-44,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,13.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,Yes,No,Yes,6.0,0.0,Cash,Yes,Friendly People
+CANADA,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,No,No,7.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,Yes,Yes,Yes,14.0,7.0,Cash,Yes, Wildlife
+ITALY,1-24,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Cash,Yes,No comments
+UGANDA,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,2.0,Cash,Yes,Friendly People
+GERMANY,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,20.0,Credit Card,Yes,Good service
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Business,Wildlife tourism,inflight magazines,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Good service
+DRC,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,No comments
+UNITED KINGDOM,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes,Friendly People
+ZAMBIA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,No comments
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,3.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,5.0,Cash,No,Friendly People
+KENYA,1-24,Alone,0.0,1.0,Scientific and Academic,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,Friendly People
+JAPAN,25-44,,0.0,1.0,Business,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,43.0,Cash,No,Friendly People
+GERMANY,25-44,Spouse and Children,3.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,36.0,2.0,Cash,No,Friendly People
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes, Wildlife
+FRANCE,25-44,Spouse and Children,1.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,No,Yes,Yes,Yes,Yes,Yes,7.0,7.0,Cash,Yes,No comments
+CANADA,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,Yes,Yes,20.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,20.0,1.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,7.0,Credit Card,Yes,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Credit Card,No, Wildlife
+KENYA,1-24,,11.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+NETHERLANDS,1-24,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,0.0,22.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,7.0,0.0,Cash,Yes,Friendly People
+FRANCE,1-24,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,Yes,No,7.0,7.0,Cash,Yes, Wildlife
+GERMANY,1-24,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,27.0,2.0,Cash,No,No comments
+KENYA,45-64,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,Yes,0.0,7.0,Cash,Yes,Friendly People
+CANADA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,13.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,45-64,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,0.0,Cash,Yes, Wildlife
+BURUNDI,25-44,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Good service
+SWIZERLAND,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,5.0,Cash,Yes,Friendly People
+NETHERLANDS,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,5.0,0.0,Credit Card,Yes,Friendly People
+GERMANY,1-24,Friends/Relatives,3.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,4.0,Cash,No,
+UNITED KINGDOM,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,6.0,Cash,No,Friendly People
+SOUTH AFRICA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,
+ZAMBIA,25-44,Children,0.0,3.0,Other,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,29.0,0.0,Cash,No, Wildlife
+UNITED KINGDOM,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,11.0,0.0,Cash,No,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Other,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,No,No,No,0.0,7.0,Cash,Yes,Friendly People
+KENYA,1-24,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,1.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,45-64,Friends/Relatives,3.0,2.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,13.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+NEW ZEALAND,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes, Wildlife
+CANADA,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,No comments
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,4.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+ZAMBIA,25-44,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,No,No,No,4.0,0.0,Cash,Yes,Excellent Experience
+UNITED KINGDOM,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,7.0,6.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+SPAIN,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,3.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+FRANCE,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,2.0,Credit Card,Yes,No comments
+KENYA,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes, Wildlife
+ZAMBIA,25-44,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+MALAYSIA,25-44,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+RWANDA,25-44,Friends/Relatives,4.0,1.0,Meetings and Conference,Mountain climbing,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No, Wildlife
+KENYA,1-24,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,Friendly People
+GERMANY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,Yes,No,No,11.0,7.0,Cash,Yes,Friendly People
+GERMANY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,2.0,Credit Card,Yes,Excellent Experience
+ZAMBIA,25-44,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+AUSTRALIA,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,3.0,Cash,Yes, Wildlife
+FRANCE,45-64,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,Yes,Yes,No,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Excellent Experience
+UNITED STATES OF AMERICA,45-64,Spouse and Children,1.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,3.0,Cash,Yes,Friendly People
+GERMANY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes, Wildlife
+ITALY,1-24,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,0.0,6.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,No,Excellent Experience
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,9.0,0.0,Cash,No,Good service
+ITALY,25-44,Children,1.0,2.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,15.0,Cash,No,"Wonderful Country, Landscape, Nature"
+FRANCE,25-44,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,2.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZAMBIA,1-24,Friends/Relatives,2.0,6.0,Scientific and Academic,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+GERMANY,65+,Friends/Relatives,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+GERMANY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,No,Yes,Yes,No,No,No,10.0,0.0,Cash,Yes,No comments
+ZAMBIA,25-44,Children,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Good service
+OMAN,45-64,Friends/Relatives,0.0,2.0,Business,Mountain climbing,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,No,Excellent Experience
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,Yes,Friendly People
+UGANDA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,
+KENYA,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Friendly People
+RUSSIA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,2.0,6.0,Credit Card,Yes, Wildlife
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,9.0,5.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+AUSTRALIA,45-64,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,27.0,0.0,Cash,Yes, Wildlife
+ITALY,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,12.0,0.0,Credit Card,Yes, Wildlife
+BELGIUM,1-24,Alone,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+INDIA,25-44,Friends/Relatives,1.0,1.0,Meetings and Conference,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,5.0,2.0,Cash,Yes, Wildlife
+AUSTRALIA,1-24,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,Yes,No,12.0,0.0,Cash,Yes, Wildlife
+ZAMBIA,25-44,Friends/Relatives,0.0,2.0,Business,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,1-24,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,5.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Other,Hunting tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Meetings and Conference,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Friendly People
+POLAND,1-24,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,3.0,11.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0,0.0,Cash,Yes,Friendly People
+KENYA,25-44,,0.0,1.0,Scientific and Academic,Hunting tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,Yes,No,4.0,0.0,Cash,No,Friendly People
+AUSTRALIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+CANADA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,4.0,Cash,Yes, Wildlife
+KENYA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Good service
+SWEDEN,45-64,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,7.0,5.0,Cash,Yes,No comments
+BURUNDI,25-44,Children,0.0,2.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Other,Beach tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+FRANCE,1-24,Alone,0.0,1.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,40.0,0.0,Cash,No,No comments
+UNITED KINGDOM,1-24,Friends/Relatives,2.0,0.0,Scientific and Academic,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,No,Yes,14.0,0.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,0.0,14.0,Credit Card,No, Wildlife
+SOUTH AFRICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,4.0,Cash,Yes, Wildlife
+SOUTH AFRICA,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,6.0,0.0,Credit Card,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,0.0,4.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,Yes,Good service
+SWIZERLAND,65+,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,13.0,0.0,Cash,Yes,
+FRANCE,45-64,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0,0.0,Cash,Yes,No comments
+MALAYSIA,25-44,,0.0,1.0,Scientific and Academic,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,No,Friendly People
+SOUTH AFRICA,45-64,Friends/Relatives,2.0,3.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,6.0,0.0,Credit Card,No,Friendly People
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,21.0,0.0,Credit Card,Yes, Wildlife
+ZAMBIA,45-64,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,0.0,7.0,Cash,No,
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,0.0,Credit Card,Yes,No comments
+ITALY,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,3.0,Cash,Yes,Friendly People
+SERBIA,25-44,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,6.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,1-24,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,Yes,No,No,14.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+INDIA,25-44,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,No,
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,Yes,No comments
+SWAZILAND,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,12.0,3.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+AUSTRALIA,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,20.0,0.0,Credit Card,Yes,Friendly People
+MALAYSIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes, Wildlife
+UGANDA,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No,Friendly People
+NETHERLANDS,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,Trade fair,Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,15.0,5.0,Cash,Yes, Wildlife
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZIMBABWE,25-44,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes, Wildlife
+UGANDA,25-44,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+ZAMBIA,45-64,,1.0,0.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+HUNGARY,45-64,Spouse and Children,0.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes, Wildlife
+IRELAND,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes, Wildlife
+KENYA,25-44,Friends/Relatives,1.0,3.0,Meetings and Conference,Mountain climbing,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+DENMARK,45-64,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,No,No comments
+CANADA,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Friendly People
+ITALY,65+,Friends/Relatives,3.0,2.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,0.0,15.0,Cash,Yes,No comments
+FRANCE,1-24,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,6.0,Cash,Yes,No comments
+CZECH REPUBLIC,25-44,,0.0,1.0,Volunteering,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,42.0,5.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,7.0,0.0,Cash,Yes, Wildlife
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0,3.0,Credit Card,No, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,No,No,10.0,4.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,25-44,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,17.0,5.0,Cash,Yes,
+AUSTRALIA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,5.0,Cash,Yes, Wildlife
+LEBANON,45-64,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,4.0,1.0,Cash,No,No comments
+UNITED KINGDOM,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,2.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+SWEDEN,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,13.0,2.0,Cash,Yes, Wildlife
+INDIA,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,1.0,Credit Card,No,"Wonderful Country, Landscape, Nature"
+BRAZIL,25-44,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,7.0,3.0,Cash,Yes, Wildlife
+SOUTH AFRICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Cash,No,Friendly People
+FRANCE,25-44,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,No,Yes,Yes,10.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,25-44,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,Good service
+ZIMBABWE,45-64,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,No,Friendly People
+ZAMBIA,45-64,Friends/Relatives,1.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,Yes,Friendly People
+ITALY,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,10.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,4.0,Cash,Yes,No comments
+ZIMBABWE,45-64,Friends/Relatives,1.0,1.0,Other,Hunting tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,No, Wildlife
+RUSSIA,25-44,Friends/Relatives,3.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,0.0,9.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,1-24,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,No comments
+UNITED KINGDOM,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,7.0,Cash,Yes,No comments
+KENYA,25-44,Friends/Relatives,0.0,3.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Excellent Experience
+CANADA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Independent,No,Yes,Yes,Yes,Yes,Yes,No,5.0,1.0,Cash,No, Wildlife
+KENYA,25-44,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+FRANCE,25-44,Spouse,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,10.0,11.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+UNITED KINGDOM,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+ITALY,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Cash,Yes, Wildlife
+ZIMBABWE,45-64,Alone,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+CANADA,45-64,Children,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,11.0,3.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,9.0,0.0,Cash,No,Friendly People
+GERMANY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,7.0,6.0,Cash,Yes,
+GERMANY,45-64,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,12.0,5.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,1-24,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,0.0,Cash,No,Good service
+UNITED STATES OF AMERICA,1-24,Alone,1.0,0.0,Volunteering,Cultural tourism,Tanzania Mission Abroad,Package Tour,Yes,Yes,Yes,Yes,No,No,No,14.0,0.0,Cash,Yes,Friendly People
+RWANDA,25-44,,1.0,0.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,65+,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,12.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,No,Friendly People
+FRANCE,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,16.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,1-24,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes,No comments
+KENYA,25-44,,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,55.0,0.0,Cash,Yes,Friendly People
+UAE,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No, Wildlife
+MAURITIUS,25-44,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,inflight magazines,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Good service
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,7.0,Cash,Yes, Wildlife
+SOUTH AFRICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,0.0,7.0,Credit Card,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,others,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+FRANCE,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,16.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,No,Yes,No,9.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+KENYA,45-64,Alone,1.0,0.0,Business,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,3.0,Credit Card,No,"Wonderful Country, Landscape, Nature"
+ISRAEL,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,16.0,4.0,Cash,Yes,Friendly People
+FRANCE,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,7.0,0.0,Cash,Yes,Excellent Experience
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,9.0,Cash,No, Wildlife
+ITALY,25-44,Friends/Relatives,3.0,5.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,Yes,Yes,Yes,12.0,0.0,Cash,Yes,Friendly People
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,Yes,Yes,0.0,7.0,Credit Card,Yes, Wildlife
+ZAMBIA,25-44,,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,Excellent Experience
+ZAMBIA,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,
+SOUTH AFRICA,45-64,Friends/Relatives,12.0,10.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,3.0,0.0,Cash,No,No comments
+CANADA,25-44,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,4.0,Cash,Yes,Excellent Experience
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,Yes,No,6.0,3.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+RWANDA,25-44,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,45-64,,0.0,1.0,Business,Hunting tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,No,No,No,4.0,0.0,Cash,No,
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,4.0,6.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,Yes,No,No,15.0,5.0,Cash,Yes,Good service
+UNITED KINGDOM,25-44,Friends/Relatives,1.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+SWIZERLAND,45-64,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,Yes, Wildlife
+ZAMBIA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+NETHERLANDS,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,5.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,1-24,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,2.0,12.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,No,
+CANADA,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,4.0,Credit Card,Yes,Friendly People
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,0.0,Credit Card,Yes, Wildlife
+THAILAND,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,
+CHINA,1-24,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,34.0,4.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,12.0,0.0,Cash,Yes,Friendly People
+AUSTRALIA,65+,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,17.0,0.0,Credit Card,Yes, Wildlife
+AUSTRALIA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,16.0,5.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,3.0,Credit Card,Yes,Friendly People
+NETHERLANDS,65+,Spouse and Children,5.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,16.0,0.0,Cash,Yes,Friendly People
+BELGIUM,45-64,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,16.0,4.0,Cash,Yes,Friendly People
+AUSTRALIA,45-64,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,No,No,13.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+MOZAMBIQUE,25-44,Spouse and Children,3.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Credit Card,No,Good service
+SOUTH AFRICA,45-64,Spouse,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,0.0,2.0,Business,Hunting tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,Yes,Friendly People
+NETHERLANDS,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,4.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,4.0,Credit Card,Yes, Wildlife
+BURUNDI,45-64,Children,0.0,2.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+AUSTRIA,45-64,Spouse,1.0,1.0,Visiting Friends and Relatives,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,11.0,0.0,Cash,No,Friendly People
+GERMANY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,9.0,7.0,Cash,Yes, Wildlife
+PORTUGAL,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,7.0,4.0,Cash,Yes,No comments
+NORWAY,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,No,No,No,3.0,2.0,Credit Card,No, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,Trade fair,Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,9.0,0.0,Cash,No,Friendly People
+SOUTH AFRICA,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,No,Yes,No,0.0,9.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Alone,1.0,0.0,Business,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,No comments
+UNITED STATES OF AMERICA,1-24,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,No,No,No,Yes,10.0,0.0,Cash,Yes,Excellent Experience
+ITALY,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,7.0,0.0,Cash,Yes, Wildlife
+FRANCE,25-44,Friends/Relatives,3.0,0.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,7.0,Cash,Yes,Excellent Experience
+KENYA,25-44,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+MALAYSIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,Good service
+SWIZERLAND,25-44,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Volunteering,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,1-24,,1.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,No,No,Yes,14.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,5.0,5.0,Cash,Yes,Friendly People
+KENYA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,7.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,3.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,5.0,Cash,Yes, Wildlife
+SOUTH AFRICA,65+,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,4.0,3.0,Other,Yes,Good service
+CHINA,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,No,No,4.0,0.0,Cash,Yes, Wildlife
+NEW ZEALAND,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,No,No,11.0,4.0,Cash,Yes,Friendly People
+FRANCE,25-44,,1.0,0.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+LATVIA,1-24,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,11.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,No,No,Yes,No,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,2.0,Cash,No, Wildlife
+KENYA,45-64,,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+KENYA,45-64,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+UAE,25-44,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,6.0,4.0,Cash,Yes,Friendly People
+ZAMBIA,25-44,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+CANADA,45-64,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,Friendly People
+BELGIUM,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,Yes,No,No,10.0,3.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,4.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UGANDA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,
+UNITED KINGDOM,1-24,Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,No comments
+ITALY,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,0.0,7.0,Cash,Yes, Wildlife
+UGANDA,25-44,Alone,0.0,1.0,Scientific and Academic,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,No comments
+FRANCE,1-24,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,11.0,3.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,1-24,,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,3.0,11.0,Cash,Yes,Good service
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Volunteering,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,70.0,4.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Friendly People
+KENYA,25-44,,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Credit Card,No,Excellent Experience
+UGANDA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Friendly People
+ITALY,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+FRANCE,45-64,,0.0,1.0,Meetings and Conference,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,10.0,0.0,Credit Card,Yes,
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,No,No,No,No,Yes,5.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,Good service
+DRC,25-44,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,Excellent Experience
+ITALY,25-44,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,Yes,No,0.0,7.0,Cash,Yes,Friendly People
+DENMARK,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,4.0,Cash,Yes,
+OMAN,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,20.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UGANDA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No,Excellent Experience
+GERMANY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,5.0,Credit Card,Yes,No comments
+ZAMBIA,1-24,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,13.0,Cash,Yes,Friendly People
+GERMANY,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,1.0,10.0,Cash,Yes,Friendly People
+GERMANY,1-24,Friends/Relatives,3.0,0.0,Leisure and Holidays,Cultural tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,130.0,10.0,Cash,Yes,No comments
+UNITED KINGDOM,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+BELGIUM,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,10.0,5.0,Cash,Yes,Friendly People
+INDIA,25-44,Spouse,1.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No,No comments
+KOREA,25-44,,1.0,0.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,Yes,No,2.0,0.0,Cash,No,No comments
+NEW ZEALAND,1-24,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,42.0,0.0,Cash,Yes, Wildlife
+LEBANON,25-44,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Friendly People
+SOUTH AFRICA,25-44,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,No,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,11.0,3.0,Cash,Yes, Wildlife
+UGANDA,25-44,Children,1.0,1.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,Satisfies and Hope Come Back
+SWIZERLAND,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,5.0,Credit Card,No, Wildlife
+UAE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,2.0,Cash,No,Good service
+FRANCE,25-44,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,90.0,0.0,Cash,No,No comments
+NETHERLANDS,45-64,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.0,5.0,Credit Card,Yes,Friendly People
+MALAYSIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,Yes,Yes,6.0,0.0,Cash,Yes,Good service
+NETHERLANDS,1-24,,1.0,0.0,Leisure and Holidays,Bird watching,"Friends, relatives",Package Tour,No,Yes,Yes,No,No,Yes,No,10.0,4.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+INDIA,25-44,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,No,No,No,7.0,0.0,Cash,Yes,No comments
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Friendly People
+SOUTH AFRICA,45-64,,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+JAPAN,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,others,Independent,No,No,No,No,No,No,No,16.0,0.0,Cash,Yes,Good service
+GERMANY,1-24,,1.0,0.0,Leisure and Holidays,Conference tourism,others,Independent,No,No,No,No,No,No,No,7.0,5.0,Cash,No, Wildlife
+SOUTH AFRICA,25-44,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,No comments
+GERMANY,1-24,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,1.0,7.0,Cash,Yes,No comments
+IRELAND,45-64,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+SPAIN,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,4.0,0.0,Cash,Yes, Wildlife
+INDIA,1-24,Alone,0.0,1.0,Business,Beach tourism,Trade fair,Independent,No,No,No,No,No,No,No,145.0,0.0,Cash,No,Good service
+AUSTRIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,No,No,Yes,No,No,9.0,6.0,Credit Card,No,No comments
+PORTUGAL,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,0.0,Cash,Yes, Wildlife
+GERMANY,1-24,,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,11.0,0.0,Cash,Yes,Good service
+NETHERLANDS,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,10.0,4.0,Cash,Yes,No comments
+ZAMBIA,25-44,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,
+FRANCE,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,No, Wildlife
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,6.0,4.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+CANADA,1-24,,1.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,0.0,4.0,Cash,Yes, Wildlife
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,Yes,Yes,10.0,9.0,Cash,Yes,Excellent Experience
+INDIA,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0,0.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,No,Yes,No,Yes,No,9.0,0.0,Cash,Yes,Good service
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,13.0,0.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes, Wildlife
+AUSTRALIA,1-24,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+FRANCE,45-64,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,65+,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,0.0,Credit Card,Yes,
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Business,Hunting tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+UNITED STATES OF AMERICA,65+,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,0.0,Credit Card,Yes,Friendly People
+UNITED KINGDOM,25-44,,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,21.0,0.0,Credit Card,No,Friendly People
+ITALY,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,0.0,Cash,Yes, Wildlife
+NETHERLANDS,45-64,Spouse and Children,4.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,10.0,5.0,Cash,Yes,Satisfies and Hope Come Back
+UNITED STATES OF AMERICA,1-24,,0.0,4.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,No,Yes,No,10.0,0.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Alone,1.0,0.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,No,No,0.0,7.0,Cash,Yes,Friendly People
+ZIMBABWE,1-24,Alone,0.0,1.0,Business,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+SPAIN,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,16.0,5.0,Cash,Yes, Wildlife
+NETHERLANDS,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,0.0,Credit Card,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,11.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+ITALY,65+,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,No comments
+UGANDA,45-64,Spouse,1.0,1.0,Scientific and Academic,Cultural tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,13.0,0.0,Cash,Yes,Satisfies and Hope Come Back
+ZAMBIA,25-44,Alone,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,Friendly People
+SPAIN,45-64,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,1-24,,1.0,0.0,Volunteering,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,Yes,Friendly People
+CHINA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse and Children,3.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Credit Card,No,Friendly People
+FRANCE,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,6.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Credit Card,Yes,Good service
+RUSSIA,1-24,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,Yes,
+OMAN,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,business,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,30.0,Cash,No,Excellent Experience
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes, Wildlife
+UGANDA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Credit Card,No,Friendly People
+AUSTRALIA,25-44,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,5.0,Credit Card,Yes, Wildlife
+UNITED KINGDOM,25-44,Spouse and Children,1.0,3.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+INDONESIA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,16.0,2.0,Cash,Yes,No comments
+GERMANY,25-44,,2.0,5.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes,Friendly People
+NETHERLANDS,25-44,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,6.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,1-24,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,9.0,3.0,Cash,Yes,
+UNITED KINGDOM,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+MYANMAR,25-44,,1.0,0.0,Meetings and Conference,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,Friendly People
+FRANCE,25-44,Alone,0.0,1.0,Volunteering,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,20.0,0.0,Cash,Yes,Friendly People
+SRI LANKA,65+,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,No,Yes,No,6.0,0.0,Cash,No,No comments
+ZAMBIA,45-64,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,Trade fair,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Good service
+UNITED KINGDOM,1-24,,0.0,1.0,Leisure and Holidays,Cultural tourism,others,Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes,Friendly People
+KENYA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,24.0,0.0,Cash,No,Friendly People
+SPAIN,45-64,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,0.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Other,Hunting tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,Yes,No comments
+MALAWI,25-44,Alone,1.0,0.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+DENMARK,1-24,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,11.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+RWANDA,45-64,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,Excellent Experience
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,14.0,Cash,Yes,Excellent Experience
+CANADA,1-24,Alone,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+INDIA,25-44,,0.0,1.0,Meetings and Conference,Cultural tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,No comments
+ZAMBIA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No, Wildlife
+KOREA,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes,Excellent Experience
+OMAN,25-44,Friends/Relatives,0.0,3.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,19.0,0.0,Cash,No,No comments
+GERMANY,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,15.0,Cash,No,"Wonderful Country, Landscape, Nature"
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,11.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,10.0,0.0,Cash,No,Friendly People
+ITALY,1-24,Friends/Relatives,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,10.0,Credit Card,Yes,Excellent Experience
+FRANCE,25-44,Friends/Relatives,,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,11.0,0.0,Cash,No,Friendly People
+UGANDA,25-44,Alone,1.0,0.0,Other,Hunting tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+KENYA,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,Friendly People
+CONGO,25-44,,1.0,0.0,Scientific and Academic,Hunting tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,Yes,Friendly People
+ZAMBIA,25-44,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,No comments
+ITALY,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,Yes,Yes,Yes,No,No,No,Yes,0.0,6.0,Cash,Yes, Wildlife
+OMAN,45-64,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,5.0,Cash,No,No comments
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,Yes,No,0.0,7.0,Cash,Yes,No comments
+FRANCE,45-64,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,11.0,6.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,No,No comments
+UNITED STATES OF AMERICA,45-64,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,19.0,0.0,Cash,Yes,No comments
+KENYA,25-44,Friends/Relatives,3.0,0.0,Other,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Satisfies and Hope Come Back
+NETHERLANDS,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,7.0,Credit Card,Yes,Friendly People
+INDIA,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Bird watching,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,No,No,10.0,3.0,Cash,Yes, Wildlife
+FRANCE,1-24,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,6.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SOUTH AFRICA,25-44,,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Package Tour,Yes,No,Yes,No,No,No,No,50.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+GERMANY,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,5.0,0.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Hunting tourism,Trade fair,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+INDIA,45-64,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,No comments
+UAE,1-24,Friends/Relatives,2.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No,Good service
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZIMBABWE,25-44,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+KENYA,1-24,,0.0,1.0,Visiting Friends and Relatives,business,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,4.0,Cash,No,Friendly People
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Credit Card,Yes,Friendly People
+KENYA,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,Yes,No,7.0,0.0,Cash,No,
+KENYA,45-64,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,3.0,Cash,No,Good service
+NETHERLANDS,65+,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,42.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+ITALY,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,Yes,Yes,Yes,Yes,No,No,No,0.0,9.0,Cash,No, Wildlife
+UNITED KINGDOM,1-24,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes, Wildlife
+ITALY,25-44,Friends/Relatives,1.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,No,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+UNITED KINGDOM,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,Yes,24.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,No,No comments
+ITALY,25-44,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,0.0,6.0,Credit Card,Yes,No comments
+NETHERLANDS,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+ITALY,45-64,Friends/Relatives,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.0,3.0,Cash,Yes,Excellent Experience
+UGANDA,25-44,Spouse and Children,2.0,1.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,5.0,Cash,No,Friendly People
+UAE,45-64,Children,4.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,12.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,12.0,0.0,Cash,Yes,No comments
+BRAZIL,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,0.0,Cash,Yes,Excellent Experience
+NIGERIA,25-44,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,65+,Friends/Relatives,1.0,1.0,Scientific and Academic,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,No,Friendly People
+DRC,25-44,,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Excellent Experience
+KENYA,25-44,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+ITALY,45-64,Alone,1.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Package Tour,Yes,Yes,No,No,No,No,No,12.0,0.0,Cash,No,Friendly People
+AUSTRIA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,12.0,0.0,Cash,Yes, Wildlife
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZIMBABWE,25-44,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes, Wildlife
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1.0,13.0,Credit Card,No,No comments
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+NETHERLANDS,25-44,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,7.0,4.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,1.0,Cash,No,Good service
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,3.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Credit Card,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,Alone,1.0,0.0,Business,Wildlife tourism,Tanzania Mission Abroad,Package Tour,Yes,Yes,No,Yes,No,Yes,No,5.0,0.0,Credit Card,No,Friendly People
+ETHIOPIA,25-44,,0.0,1.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No, Wildlife
+NEW ZEALAND,65+,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,2.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Scientific and Academic,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes, Wildlife
+SOUTH AFRICA,45-64,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,No,No,0.0,6.0,Credit Card,No,No comments
+UNITED STATES OF AMERICA,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,11.0,0.0,Cash,Yes,Friendly People
+AUSTRALIA,45-64,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,Yes,No,7.0,0.0,Cash,No,Excellent Experience
+INDIA,45-64,Alone,0.0,1.0,Business,business,Trade fair,Independent,No,No,No,No,No,No,No,12.0,0.0,Credit Card,No,"Wonderful Country, Landscape, Nature"
+ZIMBABWE,25-44,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+CANADA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes, Wildlife
+ITALY,25-44,,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,7.0,Cash,Yes,
+KENYA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+INDIA,25-44,,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,31.0,0.0,Cash,No,
+KENYA,25-44,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse and Children,3.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,12.0,4.0,Cash,Yes,No comments
+KENYA,25-44,Friends/Relatives,5.0,5.0,Meetings and Conference,Beach tourism,Tanzania Mission Abroad,Package Tour,Yes,Yes,Yes,No,No,No,No,10.0,0.0,Cash,No, Wildlife
+MEXICO,25-44,,1.0,0.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,10.0,0.0,Credit Card,No, Wildlife
+POLAND,25-44,Friends/Relatives,3.0,0.0,Leisure and Holidays,Conference tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,2.0,0.0,Cash,Yes,Satisfies and Hope Come Back
+SOUTH AFRICA,1-24,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Good service
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,6.0,0.0,Cash,Yes,No comments
+AUSTRALIA,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,3.0,Cash,Yes, Wildlife
+SWEDEN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,9.0,Cash,Yes,Friendly People
+FINLAND,45-64,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,Yes,No,No,Yes,Yes,Yes,No,12.0,0.0,Credit Card,No,
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,Yes,No,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+POLAND,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,17.0,5.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,0.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Credit Card,No,Friendly People
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,7.0,6.0,Credit Card,No, Wildlife
+ROMANIA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,5.0,5.0,Cash,Yes,Friendly People
+JAPAN,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,5.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,Yes,Good service
+INDIA,45-64,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,Yes,Friendly People
+FRANCE,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes, Wildlife
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes,Good service
+SPAIN,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,Trade fair,Independent,No,No,No,No,No,No,No,0.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+GERMANY,45-64,Friends/Relatives,1.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,10.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes, Wildlife
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Credit Card,Yes,Friendly People
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,12.0,4.0,Cash,Yes,Good service
+TURKEY,25-44,Alone,0.0,1.0,Volunteering,Conference tourism,others,Independent,No,No,No,No,No,No,No,46.0,2.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,
+SWIZERLAND,65+,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,No,No,No,No,No,4.0,2.0,Credit Card,No,
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,0.0,2.0,Scientific and Academic,Hunting tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,No,No,Yes,No,14.0,0.0,Credit Card,Yes,Friendly People
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes,Excellent Experience
+MALAYSIA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,61.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,24.0,0.0,Cash,No, Wildlife
+NETHERLANDS,1-24,,1.0,0.0,Volunteering,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,30.0,10.0,Cash,Yes,Good service
+SOUTH AFRICA,45-64,Friends/Relatives,1.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,Yes,Friendly People
+CZECH REPUBLIC,1-24,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,3.0,Cash,Yes,No comments
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,3.0,5.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,3.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,Yes,No,12.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Other,Hunting tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+GREECE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,0.0,10.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,No, Wildlife
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,No,No,No,10.0,3.0,Cash,No, Wildlife
+SPAIN,45-64,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,3.0,Credit Card,Yes, Wildlife
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+RWANDA,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Friendly People
+SOUTH AFRICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,5.0,Cash,Yes,Good service
+SPAIN,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,No,Yes,Yes,Yes,Yes,3.0,4.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,Spouse,1.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+RWANDA,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes, Wildlife
+ITALY,45-64,Children,0.0,2.0,Meetings and Conference,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,4.0,Cash,No,No comments
+GERMANY,1-24,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,16.0,Cash,No,Friendly People
+ZIMBABWE,25-44,,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,
+RWANDA,25-44,Spouse and Children,1.0,4.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Friendly People
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,No,Yes,Yes,Yes,Yes,Yes,5.0,5.0,Cash,Yes, Wildlife
+FRANCE,25-44,Spouse,1.0,2.0,Leisure and Holidays,Bird watching,"Travel, agent, tour operator",Package Tour,Yes,No,No,No,No,No,No,9.0,3.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Other,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+AUSTRALIA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,4.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,Friends/Relatives,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,7.0,7.0,Cash,Yes,Excellent Experience
+SPAIN,45-64,Friends/Relatives,0.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,6.0,Cash,Yes,Friendly People
+UNITED KINGDOM,45-64,Alone,0.0,1.0,Business,business,others,Independent,No,No,No,No,No,No,No,20.0,0.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse and Children,1.0,3.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,No,Yes,Yes,Yes,No,5.0,5.0,Cash,Yes, Wildlife
+AUSTRALIA,1-24,,1.0,0.0,Volunteering,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,Yes,Yes,30.0,0.0,Cash,Yes,Friendly People
+AUSTRIA,1-24,Alone,1.0,0.0,Leisure and Holidays,business,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,7.0,0.0,Credit Card,Yes,"Wonderful Country, Landscape, Nature"
+NEW ZEALAND,25-44,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,Good service
+DRC,1-24,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Excellent Experience
+UNITED KINGDOM,45-64,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,
+GERMANY,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,9.0,6.0,Cash,Yes, Wildlife
+CANADA,25-44,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,Tanzania Mission Abroad,Package Tour,No,Yes,Yes,Yes,Yes,No,No,14.0,5.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,45-64,Friends/Relatives,0.0,2.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+CANADA,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,No,
+UNITED KINGDOM,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,3.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,No,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+FRANCE,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,10.0,10.0,Credit Card,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,7.0,5.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Credit Card,Yes,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ITALY,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,No, Wildlife
+FRANCE,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,2.0,Cash,Yes,Friendly People
+ITALY,45-64,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,Trade fair,Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,12.0,Cash,Yes,Friendly People
+UGANDA,25-44,Friends/Relatives,3.0,3.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,1.0,Cash,No,Friendly People
+ZAMBIA,25-44,Spouse,1.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Good service
+IRELAND,1-24,Alone,1.0,0.0,Volunteering,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,Yes,Good service
+RWANDA,45-64,Children,1.0,1.0,Volunteering,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Alone,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,No comments
+GERMANY,1-24,Friends/Relatives,11.0,9.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,No,Yes,No,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Volunteering,Conference tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,19.0,0.0,Cash,Yes,Friendly People
+SWIZERLAND,25-44,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,17.0,Credit Card,Yes,Friendly People
+SPAIN,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.0,4.0,Cash,Yes,
+AUSTRALIA,25-44,,1.0,0.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+FRANCE,25-44,Alone,0.0,1.0,Meetings and Conference,Hunting tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,No comments
+AUSTRALIA,25-44,Friends/Relatives,3.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,6.0,Credit Card,Yes,Friendly People
+UGANDA,25-44,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No, Wildlife
+UNITED KINGDOM,1-24,Children,2.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Friendly People
+DENMARK,45-64,Friends/Relatives,1.0,2.0,Leisure and Holidays,Cultural tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,7.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Other,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,2.0,Cash,No,Good service
+UNITED STATES OF AMERICA,65+,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,11.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,No,No comments
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,No,No,5.0,0.0,Cash,Yes, Wildlife
+KENYA,25-44,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,6.0,0.0,Credit Card,No,Good service
+UNITED KINGDOM,1-24,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes,Excellent Experience
+UNITED KINGDOM,45-64,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,No,Friendly People
+KENYA,25-44,,1.0,0.0,Business,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,Friendly People
+CHINA,25-44,,0.0,1.0,Meetings and Conference,Beach tourism,Trade fair,Independent,No,No,No,No,No,No,No,30.0,0.0,Credit Card,No,No comments
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,No,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+ZAMBIA,25-44,Alone,1.0,0.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,3.0,3.0,Cash,Yes,No comments
+ITALY,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+KENYA,1-24,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Good service
+SWIZERLAND,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,7.0,0.0,Credit Card,Yes, Wildlife
+UGANDA,25-44,Friends/Relatives,3.0,15.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,16.0,0.0,Cash,Yes,
+RWANDA,1-24,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,Trade fair,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,No comments
+NETHERLANDS,45-64,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Credit Card,No,
+RWANDA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+CANADA,25-44,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,60.0,0.0,Cash,No,
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,Yes,0.0,7.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+NETHERLANDS,1-24,Friends/Relatives,1.0,1.0,Volunteering,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,30.0,3.0,Cash,Yes,
+GERMANY,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,No,Yes,Yes,Yes,No,No,No,14.0,0.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,45-64,Alone,1.0,0.0,Meetings and Conference,Cultural tourism,others,Independent,No,No,No,No,No,No,No,9.0,0.0,Cash,Yes,Good service
+AUSTRALIA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,13.0,Cash,Yes,Good service
+EGYPT,25-44,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SOUTH AFRICA,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,Trade fair,Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,9.0,0.0,Cash,Yes,Good service
+ITALY,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Independent,No,Yes,Yes,Yes,No,Yes,No,4.0,6.0,Credit Card,Yes, Wildlife
+UNITED STATES OF AMERICA,65+,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No, Wildlife
+BURUNDI,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+AUSTRALIA,45-64,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,6.0,Cash,Yes,Good service
+UGANDA,45-64,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,7.0,0.0,Cash,Yes, Wildlife
+SOUTH AFRICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,0.0,7.0,Credit Card,No, Wildlife
+AUSTRALIA,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,53.0,2.0,Cash,Yes,Friendly People
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Cash,Yes,Friendly People
+IRELAND,25-44,Alone,1.0,0.0,Volunteering,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,Yes, Wildlife
+FRANCE,45-64,Children,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Friendly People
+NEW ZEALAND,25-44,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,5.0,Cash,Yes,Friendly People
+GERMANY,45-64,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,17.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+GERMANY,25-44,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,0.0,14.0,Cash,Yes,Excellent Experience
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,0.0,Credit Card,Yes, Wildlife
+ITALY,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Credit Card,Yes, Wildlife
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,0.0,7.0,Credit Card,Yes,Satisfies and Hope Come Back
+AUSTRALIA,65+,Spouse,1.0,1.0,Leisure and Holidays,Bird watching,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,12.0,5.0,Cash,Yes,Friendly People
+BURUNDI,1-24,,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,45-64,,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Credit Card,No,Friendly People
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,No,No,14.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,5.0,0.0,Credit Card,No,Good service
+SOUTH AFRICA,25-44,Children,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,17.0,4.0,Cash,No,No comments
+NEW ZEALAND,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,No,No,No,3.0,3.0,Cash,Yes, Wildlife
+GERMANY,45-64,Spouse and Children,2.0,4.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,No,Yes,Yes,Yes,Yes,No,4.0,11.0,Credit Card,Yes,Excellent Experience
+GERMANY,1-24,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,7.0,6.0,Cash,No, Wildlife
+FRANCE,25-44,Friends/Relatives,1.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,No,Yes,No,10.0,3.0,Cash,Yes,No comments
+UGANDA,45-64,,1.0,0.0,Meetings and Conference,Mountain climbing,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Excellent Experience
+AUSTRALIA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,7.0,4.0,Cash,Yes, Wildlife
+SOUTH AFRICA,25-44,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,9.0,0.0,Cash,Yes,Friendly People
+UGANDA,25-44,Friends/Relatives,5.0,1.0,Visiting Friends and Relatives,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,12.0,3.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,13.0,0.0,Cash,Yes,No comments
+DENMARK,25-44,,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Friendly People
+CHINA,25-44,Friends/Relatives,2.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,5.0,2.0,Cash,No,No comments
+ZAMBIA,45-64,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SPAIN,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,Yes,No comments
+MALAWI,1-24,Friends/Relatives,0.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,Excellent Experience
+SWIZERLAND,1-24,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,17.0,0.0,Cash,No,Friendly People
+SOUTH AFRICA,25-44,,0.0,1.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,2.0,Credit Card,Yes,Friendly People
+UNITED KINGDOM,25-44,Friends/Relatives,2.0,2.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,3.0,0.0,Credit Card,No,Friendly People
+UGANDA,25-44,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,3.0,1.0,Scientific and Academic,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,60.0,4.0,Cash,Yes,Friendly People
+DENMARK,65+,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,14.0,0.0,Cash,No, Wildlife
+FRANCE,45-64,Children,4.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,Yes,Yes,12.0,0.0,Cash,Yes,
+AUSTRALIA,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,7.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,14.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,45-64,Spouse and Children,2.0,4.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,7.0,Cash,Yes,Good service
+NETHERLANDS,45-64,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,14.0,4.0,Cash,Yes,Friendly People
+SPAIN,25-44,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,4.0,Other,Yes, Wildlife
+KENYA,25-44,Children,0.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,0.0,15.0,Cash,Yes, Wildlife
+FRANCE,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,Tanzania Mission Abroad,Package Tour,No,Yes,No,No,Yes,Yes,No,4.0,4.0,Cash,Yes, Wildlife
+ITALY,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,Excellent Experience
+SWIZERLAND,1-24,Friends/Relatives,0.0,3.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,11.0,4.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+GERMANY,25-44,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,Yes,No,9.0,3.0,Cash,Yes,Excellent Experience
+ZAMBIA,45-64,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,Yes,Excellent Experience
+ITALY,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,6.0,Cash,No,No comments
+ITALY,25-44,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,13.0,5.0,Cash,Yes,Excellent Experience
+ITALY,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,10.0,0.0,Cash,Yes, Wildlife
+UAE,25-44,Alone,1.0,0.0,Meetings and Conference,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Good service
+UNITED KINGDOM,45-64,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0,0.0,Cash,Yes,Friendly People
+FRANCE,45-64,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,3.0,Cash,Yes,Excellent Experience
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+FRANCE,45-64,Friends/Relatives,2.0,4.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,14.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,No,Yes,No,9.0,3.0,Cash,Yes,Friendly People
+ZAMBIA,45-64,Alone,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+AUSTRIA,25-44,Spouse,0.0,2.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,0.0,11.0,Cash,Yes, Wildlife
+NETHERLANDS,1-24,Alone,1.0,0.0,Volunteering,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,No,No,No,50.0,5.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,61.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,25-44,Spouse,1.0,1.0,Visiting Friends and Relatives,Beach tourism,others,Independent,No,No,No,No,No,No,No,1.0,5.0,Cash,No,No comments
+UGANDA,25-44,Friends/Relatives,0.0,2.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+SPAIN,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,5.0,Cash,No, Wildlife
+KENYA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,No,Yes,Yes,Yes,No,9.0,2.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,
+AUSTRALIA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,Excellent Experience
+SOUTH AFRICA,45-64,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,14.0,0.0,Credit Card,No,Friendly People
+UGANDA,25-44,,0.0,1.0,Business,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+SOUTH AFRICA,45-64,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,9.0,11.0,Cash,No, Wildlife
+AUSTRALIA,1-24,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Friendly People
+ZAMBIA,25-44,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Friendly People
+INDIA,25-44,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+RWANDA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,4.0,0.0,Cash,Yes, Wildlife
+GERMANY,1-24,,0.0,1.0,Volunteering,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,Yes,No comments
+ZIMBABWE,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,7.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,13.0,0.0,Cash,Yes,Friendly People
+AUSTRIA,45-64,Children,2.0,1.0,Meetings and Conference,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,Friendly People
+ITALY,45-64,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+RWANDA,45-64,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Excellent Experience
+ZAMBIA,25-44,Alone,0.0,1.0,Other,Hunting tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No, Wildlife
+TAIWAN,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,9.0,0.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,9.0,2.0,Cash,Yes,Friendly People
+ITALY,45-64,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,4.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+CANADA,65+,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,5.0,Credit Card,Yes,Excellent Experience
+SOUTH AFRICA,25-44,,1.0,0.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Good service
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,3.0,Cash,Yes, Wildlife
+ITALY,25-44,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,1.0,13.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Cash,Yes, Wildlife
+DENMARK,45-64,Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,No,No,6.0,7.0,Cash,Yes, Wildlife
+MALAYSIA,45-64,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Good service
+ZIMBABWE,25-44,,0.0,1.0,Scientific and Academic,Beach tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,21.0,0.0,Cash,Yes,Friendly People
+MALT,25-44,Friends/Relatives,0.0,2.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,Yes,No,Yes,0.0,5.0,Cash,Yes,No comments
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Credit Card,Yes, Wildlife
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,3.0,2.0,Credit Card,Yes,Friendly People
+DRC,45-64,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+FRANCE,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,17.0,9.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,65+,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,Yes,Yes,No,15.0,0.0,Cash,No,Friendly People
+ZIMBABWE,45-64,Spouse,1.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Friendly People
+SOUTH AFRICA,25-44,Alone,0.0,1.0,Business,Beach tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Excellent Experience
+SWIZERLAND,25-44,Children,0.0,3.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,30.0,0.0,Cash,Yes, Wildlife
+UNITED STATES OF AMERICA,1-24,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,1.0,Cash,Yes,No comments
+GERMANY,1-24,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+AUSTRALIA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,No,No,No,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Spouse and Children,2.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,No comments
+NETHERLANDS,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,No,No,16.0,5.0,Cash,Yes, Wildlife
+NETHERLANDS,25-44,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,Yes,Yes,Yes,Yes,Yes,No,16.0,6.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,No,No comments
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,No,No,10.0,0.0,Cash,Yes,Good service
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,12.0,4.0,Cash,Yes,Good service
+UNITED KINGDOM,25-44,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,No,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,1-24,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Good service
+KENYA,25-44,Alone,0.0,1.0,Other,Hunting tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+ZAMBIA,25-44,Alone,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,No comments
+ITALY,25-44,Spouse and Children,1.0,3.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,No comments
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Credit Card,No,Friendly People
+FRANCE,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+PAKISTAN,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,,0.0,1.0,Business,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No, Wildlife
+UNITED KINGDOM,25-44,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,14.0,0.0,Cash,No,
+GERMANY,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,10.0,3.0,Cash,No, Wildlife
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,Yes,13.0,7.0,Cash,Yes, Wildlife
+SOUTH AFRICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,No,No,17.0,0.0,Cash,Yes,Friendly People
+NORWAY,1-24,Friends/Relatives,4.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,11.0,6.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,4.0,Cash,Yes, Wildlife
+CANADA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,6.0,6.0,Cash,Yes, Wildlife
+UKRAIN,25-44,Alone,1.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,10.0,0.0,Cash,Yes,Friendly People
+UAE,45-64,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,20.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,45-64,Friends/Relatives,3.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,5.0,2.0,Cash,No,No comments
+NETHERLANDS,25-44,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,30.0,0.0,Cash,Yes,Satisfies and Hope Come Back
+SOUTH AFRICA,45-64,Friends/Relatives,0.0,3.0,Business,Wildlife tourism,Trade fair,Independent,No,No,No,No,No,No,No,4.0,0.0,Credit Card,No,Friendly People
+UAE,45-64,Spouse and Children,5.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,9.0,5.0,Cash,Yes, Wildlife
+KENYA,45-64,Alone,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,No,Good service
+GERMANY,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,17.0,4.0,Cash,No, Wildlife
+UNITED STATES OF AMERICA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+AUSTRALIA,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,9.0,3.0,Cash,Yes,Friendly People
+ITALY,25-44,,0.0,1.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,27.0,0.0,Cash,Yes,No comments
+UNITED KINGDOM,1-24,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Good service
+CANADA,1-24,Friends/Relatives,0.0,0.0,Volunteering,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,No,No,10.0,11.0,Cash,Yes,No comments
+GERMANY,65+,Children,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,3.0,Cash,No,Good service
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,4.0,Cash,Yes,No comments
+MALAWI,25-44,Friends/Relatives,2.0,0.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,No comments
+BURUNDI,25-44,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,0.0,Cash,No,Friendly People
+SPAIN,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,3.0,5.0,Cash,Yes,No comments
+UNITED KINGDOM,1-24,,1.0,0.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,24.0,4.0,Other,Yes,Friendly People
+INDIA,25-44,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,65+,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,5.0,5.0,Credit Card,Yes,Friendly People
+ITALY,25-44,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Cash,No,Friendly People
+INDIA,25-44,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,Yes,Good service
+CHINA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,5.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,3.0,4.0,Cash,Yes,No comments
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,5.0,Cash,Yes, Wildlife
+NETHERLANDS,1-24,Friends/Relatives,0.0,2.0,Volunteering,Wildlife tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,90.0,5.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,No,Friendly People
+AUSTRALIA,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,No,Yes,No,Yes,Yes,Yes,No,5.0,0.0,Credit Card,Yes,Friendly People
+UNITED STATES OF AMERICA,65+,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0,0.0,Cash,Yes, Wildlife
+UNITED KINGDOM,25-44,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+UNITED KINGDOM,25-44,Spouse and Children,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,No,No,10.0,0.0,Credit Card,No,No comments
+ETHIOPIA,25-44,,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,No,No,5.0,0.0,Cash,Yes, Wildlife
+NETHERLANDS,45-64,Friends/Relatives,5.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,2.0,Cash,Yes,Friendly People
+KENYA,25-44,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,4.0,Cash,Yes, Wildlife
+ITALY,25-44,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,Yes,No comments
+MADAGASCAR,25-44,Spouse and Children,1.0,2.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,39.0,0.0,Cash,Yes,Friendly People
+GERMANY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,11.0,4.0,Cash,Yes, Wildlife
+FRANCE,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,No,5.0,2.0,Cash,Yes, Wildlife
+GERMANY,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,20.0,5.0,Cash,Yes,No comments
+KENYA,25-44,Children,2.0,1.0,Visiting Friends and Relatives,Beach tourism,others,Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No, Wildlife
+UNITED STATES OF AMERICA,45-64,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,4.0,0.0,Credit Card,No,Friendly People
+JAPAN,45-64,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,0.0,Cash,No,Excellent Experience
+KENYA,45-64,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Newspaper, magazines,brochures",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+UNITED KINGDOM,45-64,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,No comments
+SOUTH AFRICA,45-64,Alone,0.0,1.0,Business,Bird watching,"Friends, relatives",Independent,No,No,No,No,No,No,No,1.0,0.0,Credit Card,Yes,No comments
+CHINA,25-44,Friends/Relatives,0.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,No,Yes,No,No,No,No,No,6.0,0.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Friends/Relatives,1.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+UGANDA,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+ZIMBABWE,45-64,Alone,0.0,1.0,Other,Hunting tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+AUSTRALIA,45-64,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,12.0,4.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,4.0,Cash,Yes,Excellent Experience
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,2.0,Cash,Yes,Friendly People
+AUSTRALIA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,0.0,Cash,Yes, Wildlife
+OMAN,1-24,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,6.0,Cash,No,No comments
+NETHERLANDS,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,Yes,10.0,4.0,Cash,No,Friendly People
+QATAR,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,12.0,3.0,Cash,Yes,Excellent Experience
+AUSTRALIA,1-24,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,6.0,7.0,Cash,No,Friendly People
+KENYA,45-64,Alone,1.0,0.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,90.0,0.0,Cash,No,Friendly People
+DENMARK,1-24,,1.0,0.0,Volunteering,Wildlife tourism,Tanzania Mission Abroad,Independent,No,No,No,No,No,No,No,63.0,0.0,Cash,Yes,Friendly People
+INDONESIA,25-44,,0.0,1.0,Other,Beach tourism,inflight magazines,Independent,No,No,No,No,No,No,No,35.0,0.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,Yes,
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,No,No,No,6.0,5.0,Cash,Yes,Good service
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,3.0,Cash,Yes,No comments
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Cash,Yes,No comments
+ITALY,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,No,Yes,No,0.0,7.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+SOUTH AFRICA,45-64,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,4.0,0.0,Credit Card,Yes,
+BELGIUM,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,0.0,Cash,Yes,Excellent Experience
+GERMANY,25-44,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,No comments
+FRANCE,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,13.0,2.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+ZIMBABWE,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,
+SINGAPORE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,No,No,Yes,No,11.0,0.0,Credit Card,Yes,No comments
+RWANDA,25-44,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,4.0,0.0,Cash,No,
+ITALY,25-44,Friends/Relatives,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,Yes,0.0,7.0,Cash,Yes,Friendly People
+ITALY,45-64,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,No,No comments
+DENMARK,1-24,Friends/Relatives,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,10.0,6.0,Cash,Yes,Friendly People
+KENYA,25-44,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,No comments
+UNITED KINGDOM,45-64,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,9.0,0.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,Yes,Friendly People
+MALAWI,45-64,Alone,0.0,1.0,Other,Hunting tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,No,23.0,0.0,Cash,No,
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0,3.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,65+,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,9.0,4.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,65+,Friends/Relatives,6.0,5.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,No,No,Yes,No,9.0,0.0,Cash,Yes,Friendly People
+CROATIA,45-64,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,No,Yes,No,11.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+DRC,25-44,Alone,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.0,0.0,Cash,Yes,Friendly People
+FRANCE,45-64,,1.0,0.0,Volunteering,Hunting tourism,others,Independent,No,No,No,No,No,No,No,32.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,2.0,0.0,Cash,No,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Beach tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,No comments
+UGANDA,45-64,,0.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,
+NETHERLANDS,45-64,,1.0,0.0,Scientific and Academic,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,10.0,0.0,Credit Card,No,Friendly People
+RWANDA,45-64,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,1-24,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,No,No,4.0,0.0,Cash,Yes,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,25-44,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,7.0,6.0,Cash,Yes,
+UNITED KINGDOM,1-24,Alone,0.0,1.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,23.0,1.0,Cash,No,No comments
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,0.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,No,Yes,Yes,No,19.0,0.0,Cash,Yes,Friendly People
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,No,Yes,0.0,9.0,Cash,Yes, Wildlife
+INDIA,25-44,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Credit Card,No,Friendly People
+ITALY,1-24,Alone,1.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,No,No,No,9.0,0.0,Cash,Yes,Friendly People
+SOUTH AFRICA,1-24,Friends/Relatives,2.0,1.0,Leisure and Holidays,business,"Radio, TV, Web",Package Tour,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,7.0,Cash,Yes,No comments
+RWANDA,45-64,Alone,0.0,1.0,Other,Mountain climbing,others,Independent,No,No,No,No,No,No,No,5.0,0.0,Cash,No,Friendly People
+UNITED STATES OF AMERICA,25-44,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,Yes,No comments
+BURUNDI,25-44,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,
+UNITED STATES OF AMERICA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,9.0,0.0,Cash,No,Good service
+NETHERLANDS,45-64,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,17.0,3.0,Cash,Yes,Friendly People
+UNITED KINGDOM,1-24,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,12.0,3.0,Cash,Yes, Wildlife
+UNITED KINGDOM,45-64,,0.0,1.0,Scientific and Academic,Hunting tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,15.0,0.0,Cash,Yes,Friendly People
+AUSTRALIA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,6.0,0.0,Cash,Yes, Wildlife
+KENYA,65+,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,No,Friendly People
+AUSTRALIA,45-64,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,5.0,0.0,Cash,No, Wildlife
+BURUNDI,45-64,,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,Excellent Experience
+ZIMBABWE,25-44,Friends/Relatives,1.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No, Wildlife
+BELGIUM,1-24,Alone,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Package Tour,No,Yes,Yes,Yes,Yes,Yes,Yes,10.0,0.0,Cash,Yes,Friendly People
+OMAN,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,20.0,0.0,Cash,No,No comments
+NORWAY,25-44,,1.0,0.0,Leisure and Holidays,Conference tourism,others,Package Tour,Yes,Yes,No,Yes,No,No,No,9.0,4.0,Cash,Yes,Friendly People
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,Friendly People
+JAPAN,1-24,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,3.0,0.0,Cash,Yes,Excellent Experience
+SWEDEN,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,0.0,13.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,Children,0.0,2.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,No,Yes,Yes,No,Yes,Yes,Yes,9.0,0.0,Credit Card,Yes,Friendly People
+UNITED STATES OF AMERICA,1-24,Alone,1.0,0.0,Scientific and Academic,Conference tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,61.0,3.0,Cash,Yes,Friendly People
+BELGIUM,45-64,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,No,Yes,Yes,Yes,No,11.0,9.0,Cash,Yes,Friendly People
+FRANCE,25-44,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,No,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Excellent Experience
+UNITED STATES OF AMERICA,25-44,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,6.0,3.0,Cash,Yes, Wildlife
+ZIMBABWE,25-44,Spouse,1.0,1.0,Other,Hunting tourism,"Radio, TV, Web",Independent,No,No,No,No,No,No,No,1.0,0.0,Cash,Yes,Friendly People
+NETHERLANDS,1-24,,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,3.0,7.0,Cash,Yes,Good service
+FRANCE,25-44,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,10.0,5.0,Cash,Yes,Good service
+SOUTH AFRICA,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,Friendly People
+KENYA,25-44,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,2.0,0.0,Cash,No,"Wonderful Country, Landscape, Nature"
+UNITED STATES OF AMERICA,65+,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0,0.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,25-44,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,No,Yes,Yes,Yes,Yes,Yes,No,14.0,0.0,Cash,Yes, Wildlife
+SOUTH AFRICA,25-44,Spouse and Children,0.0,3.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,Friendly People
+UNITED STATES OF AMERICA,45-64,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,No,No,No,No,No,No,No,42.0,0.0,Cash,No,
+ZIMBABWE,25-44,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,No,No,No,No,No,No,No,3.0,0.0,Cash,No,No comments
+UNITED KINGDOM,45-64,Spouse and Children,2.0,2.0,Meetings and Conference,Mountain climbing,others,Independent,No,No,No,No,No,No,No,12.0,0.0,Credit Card,No,Friendly People
+AUSTRALIA,65+,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,No,15.0,0.0,Cash,Yes,Friendly People
+SPAIN,45-64,Spouse,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,20.0,0.0,Cash,Yes, Wildlife
+SOUTH AFRICA,25-44,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,Yes,No,No,No,No,No,No,4.0,0.0,Cash,Yes,No comments
+ITALY,25-44,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,Yes,Yes,Yes,Yes,No,No,No,0.0,7.0,Cash,Yes,No comments
+SOUTH AFRICA,25-44,Alone,0.0,1.0,Business,Mountain climbing,others,Independent,No,No,No,No,No,No,No,12.0,0.0,Cash,No,Friendly People
+ITALY,45-64,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,No,No,No,No,No,No,No,7.0,6.0,Credit Card,No,No comments
+SPAIN,25-44,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,6.0,Cash,Yes,Satisfies and Hope Come Back

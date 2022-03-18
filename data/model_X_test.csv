@@ -1,0 +1,962 @@
+100,1,Friends/Relatives,10.0,3.0,Volunteering,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,23.0,0.0,Cash,1, Wildlife
+89,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,7.0,0.0,Credit Card,1, Wildlife
+99,0,Alone,0.0,1.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,56.0,0.0,Credit Card,0,Friendly People
+100,2,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,0,Friendly People
+29,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,9.0,0.0,Cash,1,Friendly People
+100,1,Friends/Relatives,2.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,0,1,1,4.0,10.0,Credit Card,1,No comments
+44,1,,1.0,0.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+44,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+83,1,,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,6.0,Credit Card,0,Friendly People
+41,2,Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,0,Good service
+103,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,0,
+44,1,Alone,1.0,0.0,Other,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Good service
+31,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Cultural tourism,Trade fair,Independent,0,0,0,0,0,0,0,13.0,5.0,Cash,1,Friendly People
+10,1,,1.0,0.0,Volunteering,Cultural tourism,others,Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+44,2,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,0,Friendly People
+29,3,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,4.0,Cash,1,Excellent Experience
+99,0,Alone,1.0,0.0,Visiting Friends and Relatives,business,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,23.0,Cash,0,Friendly People
+104,1,Friends/Relatives,1.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,Friendly People
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,0.0,Credit Card,1, Wildlife
+83,1,,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,1,Excellent Experience
+31,1,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,13.0,Cash,1, Wildlife
+83,2,Friends/Relatives,1.0,1.0,Scientific and Academic,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+99,1,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,1,No comments
+41,1,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,0.0,7.0,Cash,1,Friendly People
+64,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,11.0,3.0,Cash,1,No comments
+44,1,Friends/Relatives,1.0,3.0,Meetings and Conference,Mountain climbing,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+44,2,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+44,3,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,Friendly People
+68,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,10.0,Cash,1, Wildlife
+99,2,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,4.0,4.0,Cash,1,Friendly People
+99,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,9.0,0.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+99,0,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,Good service
+44,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,0.0,3.0,Cash,1,Friendly People
+41,2,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Package Tour,0,1,0,1,1,1,0,2.0,0.0,Cash,1, Wildlife
+100,3,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,1,0,10.0,0.0,Cash,1,Friendly People
+44,1,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,11.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+70,1,Spouse and Children,1.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,65.0,0.0,Cash,1, Wildlife
+44,0,,0.0,1.0,Visiting Friends and Relatives,business,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,4.0,Cash,0,Friendly People
+96,1,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,0,No comments
+44,1,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,No comments
+3,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,4.0,0.0,Cash,1,Friendly People
+44,2,,0.0,1.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0, Wildlife
+99,0,,0.0,1.0,Scientific and Academic,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,1,Friendly People
+102,2,Spouse and Children,1.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,0,Excellent Experience
+44,1,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,11.0,0.0,Other,0,No comments
+41,1,Friends/Relatives,2.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,0,Friendly People
+64,0,Spouse and Children,1.0,5.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,12.0,4.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+103,1,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,3.0,2.0,Credit Card,1,Friendly People
+3,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,0.0,4.0,Cash,1, Wildlife
+28,0,,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,9.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,12.0,0.0,Cash,1, Wildlife
+31,2,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,1,0,12.0,0.0,Cash,1,No comments
+44,1,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+83,3,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Package Tour,1,1,1,0,1,1,0,6.0,0.0,Cash,0,Good service
+43,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,3.0,0.0,Cash,1, Wildlife
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,0.0,4.0,Cash,1, Wildlife
+100,1,,1.0,0.0,Scientific and Academic,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Friendly People
+4,1,Alone,0.0,1.0,Visiting Friends and Relatives,Conference tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,7.0,5.0,Cash,0,Good service
+99,2,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,
+99,1,Children,1.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,0,0,0,0,19.0,3.0,Cash,0,
+21,0,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,5.0,5.0,Cash,1, Wildlife
+31,1,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,15.0,Cash,0,"Wonderful Country, Landscape, Nature"
+100,3,,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Satisfies and Hope Come Back
+31,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,4.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+31,1,,0.0,1.0,Meetings and Conference,Cultural tourism,others,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,Friendly People
+69,2,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,27.0,Cash,0,Friendly People
+99,0,Alone,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,No comments
+21,0,,1.0,0.0,Volunteering,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,63.0,0.0,Cash,1,Friendly People
+103,1,Alone,1.0,0.0,Business,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+100,3,Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,10.0,0.0,Cash,1, Wildlife
+31,2,Friends/Relatives,2.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,9.0,Cash,1,No comments
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,0,0,0,6.0,5.0,Cash,1,Good service
+29,2,Friends/Relatives,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,10.0,3.0,Cash,1,Friendly People
+48,1,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+41,2,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,14.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,0,0,1,5.0,3.0,Cash,1,No comments
+99,0,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,13.0,5.0,Cash,0, Wildlife
+100,1,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,1,Alone,0.0,1.0,Business,Beach tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Excellent Experience
+29,2,Spouse and Children,2.0,2.0,Meetings and Conference,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,7.0,Cash,1,Good service
+100,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,24.0,0.0,Cash,0,No comments
+29,0,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,6.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,2,Spouse and Children,3.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,12.0,4.0,Cash,1,No comments
+100,0,Friends/Relatives,7.0,3.0,Scientific and Academic,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,1,14.0,0.0,Cash,1,Friendly People
+71,1,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,7.0,0.0,Cash,1, Wildlife
+99,0,Alone,1.0,0.0,Volunteering,Cultural tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,13.0,3.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,Trade fair,Package Tour,1,1,1,1,0,0,1,10.0,6.0,Cash,0,Excellent Experience
+83,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,6.0,Cash,1,No comments
+99,1,Children,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,4.0,Cash,0,Excellent Experience
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,Friendly People
+41,1,Friends/Relatives,0.0,3.0,Visiting Friends and Relatives,Cultural tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+29,1,Spouse,1.0,1.0,Business,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,1,1,0.0,2.0,Cash,1,Friendly People
+41,1,,0.0,1.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,27.0,0.0,Cash,1,No comments
+64,2,,1.0,0.0,Meetings and Conference,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+100,0,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,Trade fair,Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,1,Good service
+41,1,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+100,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,12.0,0.0,Cash,1, Wildlife
+41,0,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,0,7.0,0.0,Cash,1,Friendly People
+13,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1, Wildlife
+3,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+44,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,10.0,0.0,Cash,1, Wildlife
+31,2,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,12.0,Cash,1,Friendly People
+83,2,Alone,0.0,1.0,Business,Bird watching,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,1,No comments
+41,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,1,No comments
+6,0,,1.0,0.0,Volunteering,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,70.0,0.0,Cash,1,Friendly People
+100,1,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,3.0,Cash,0,Friendly People
+41,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,0,Friendly People
+100,1,,1.0,0.0,Scientific and Academic,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Credit Card,0,No comments
+100,0,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,0,1,1,1,1,0,0,4.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+31,1,,1.0,0.0,Scientific and Academic,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,60.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,1,1,0.0,4.0,Credit Card,1,Good service
+99,0,Friends/Relatives,1.0,1.0,Volunteering,Hunting tourism,"Friends, relatives",Package Tour,0,1,1,0,0,0,0,0.0,30.0,Cash,0,Friendly People
+100,3,Friends/Relatives,6.0,6.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,11.0,2.0,Cash,1,No comments
+88,1,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,others,Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Good service
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,0,0,0.0,14.0,Cash,0,
+100,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,19.0,0.0,Cash,1,No comments
+104,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,2.0,3.0,Credit Card,1,Friendly People
+99,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,0,1,1,1,1,1,5.0,3.0,Cash,1,No comments
+44,1,Spouse and Children,5.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,3.0,0.0,Credit Card,0, Wildlife
+29,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,14.0,6.0,Cash,1, Wildlife
+100,0,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,1,No comments
+41,1,Friends/Relatives,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,14.0,Cash,1,No comments
+3,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,5.0,0.0,Cash,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,11.0,0.0,Cash,1, Wildlife
+41,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,1,Alone,0.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,2.0,Cash,1,Friendly People
+24,1,Alone,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,No comments
+99,0,Friends/Relatives,2.0,0.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,0,0,25.0,2.0,Cash,1,No comments
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,1.0,13.0,Credit Card,0,No comments
+41,1,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,13.0,5.0,Cash,1,Excellent Experience
+41,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,No comments
+3,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,0.0,Cash,1, Wildlife
+88,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,0.0,15.0,Cash,1, Wildlife
+103,1,Children,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Satisfies and Hope Come Back
+100,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,11.0,0.0,Cash,1, Wildlife
+100,3,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,12.0,0.0,Cash,0,Friendly People
+35,1,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Package Tour,1,1,1,1,0,0,0,9.0,0.0,Cash,1,No comments
+44,1,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,2.0,Cash,1,Friendly People
+3,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,7.0,0.0,Cash,1,Excellent Experience
+104,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,0,0,0.0,4.0,Cash,1,Friendly People
+100,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,11.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+100,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+4,1,Spouse,0.0,2.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,0.0,11.0,Cash,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,10.0,0.0,Credit Card,1,Friendly People
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Credit Card,1, Wildlife
+100,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,1,1,1,1,0,3.0,3.0,Cash,1, Wildlife
+99,1,Alone,1.0,0.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,0.0,Credit Card,1,Friendly People
+53,1,,0.0,1.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Package Tour,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+41,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,0,6.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,1,Alone,0.0,1.0,Business,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,34.0,0.0,Cash,0,No comments
+5,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,6.0,0.0,Cash,1, Wildlife
+24,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+41,2,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,12.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,1,1,7.0,0.0,Cash,1,No comments
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,7.0,0.0,Cash,1, Wildlife
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,
+68,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Good service
+103,1,Alone,0.0,1.0,Business,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+96,1,Alone,0.0,1.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0, Wildlife
+41,1,Friends/Relatives,6.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,20.0,0.0,Cash,1,Friendly People
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Credit Card,1, Wildlife
+26,1,Alone,0.0,1.0,Other,Cultural tourism,"Radio, TV, Web",Package Tour,0,1,1,1,0,0,0,19.0,0.0,Cash,0,No comments
+100,3,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,0.0,Credit Card,1,Friendly People
+31,2,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,0.0,Cash,1, Wildlife
+43,0,,0.0,1.0,Scientific and Academic,Hunting tourism,others,Package Tour,0,1,1,0,1,0,0,3.0,0.0,Cash,1, Wildlife
+64,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,1,1,1,1,0,12.0,7.0,Cash,1,Excellent Experience
+99,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,14.0,0.0,Cash,0,Good service
+13,0,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1, Wildlife
+68,1,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Credit Card,0,"Wonderful Country, Landscape, Nature"
+99,3,Friends/Relatives,1.0,1.0,Scientific and Academic,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,0,Friendly People
+20,0,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,3.0,Cash,1,No comments
+89,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,16.0,4.0,Cash,1, Wildlife
+3,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+83,2,Friends/Relatives,6.0,6.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,0,0,0.0,3.0,Cash,1,Friendly People
+99,2,,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,No comments
+44,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,7.0,Cash,1,Friendly People
+31,0,,1.0,0.0,Leisure and Holidays,Conference tourism,others,Independent,0,0,0,0,0,0,0,7.0,5.0,Cash,0, Wildlife
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,15.0,0.0,Cash,1, Wildlife
+41,2,,0.0,1.0,Other,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,5.0,0.0,Credit Card,0,Friendly People
+100,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,11.0,0.0,Cash,1,Good service
+35,2,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,1,Friendly People
+99,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,0,1,0,1,0,10.0,0.0,Cash,1,Excellent Experience
+84,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,3.0,Cash,1, Wildlife
+3,0,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,12.0,0.0,Cash,1,Good service
+41,1,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1, Wildlife
+58,1,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,6.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,0,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,Excellent Experience
+65,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,17.0,6.0,Cash,1,Friendly People
+100,2,,1.0,0.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Package Tour,0,1,0,1,1,1,0,13.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+67,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,35.0,0.0,Cash,0,Good service
+95,1,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,Friendly People
+43,0,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,0.0,Cash,0,Good service
+100,1,Friends/Relatives,0.0,4.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,0,1,1,0,1,1,0,14.0,0.0,Credit Card,1, Wildlife
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,7.0,6.0,Cash,1,"Wonderful Country, Landscape, Nature"
+29,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,5.0,2.0,Cash,1, Wildlife
+31,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,0,13.0,0.0,Cash,1, Wildlife
+3,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,0,0,0.0,13.0,Cash,1,Good service
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,0,"Wonderful Country, Landscape, Nature"
+18,2,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,11.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,Children,0.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,0,Friendly People
+96,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,0, Wildlife
+72,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,1,2.0,0.0,Cash,0, Wildlife
+29,2,Friends/Relatives,7.0,6.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,13.0,0.0,Credit Card,1,No comments
+100,2,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,No comments
+99,1,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,1,No comments
+100,1,,0.0,1.0,Meetings and Conference,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,1,Friendly People
+35,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,1,1,1,1,1,1,0,7.0,0.0,Cash,1,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,5.0,0.0,Cash,1,Friendly People
+96,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,0.0,Cash,0,Friendly People
+79,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,6.0,Cash,1, Wildlife
+10,2,Spouse and Children,2.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,6.0,3.0,Cash,1,Friendly People
+29,2,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,0.0,Cash,0, Wildlife
+31,3,Children,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,3.0,Cash,0,Good service
+99,2,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,2.0,Cash,1,Friendly People
+21,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,6.0,Cash,1, Wildlife
+77,1,Alone,1.0,0.0,Meetings and Conference,Beach tourism,Trade fair,Package Tour,1,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+9,1,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+84,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,16.0,5.0,Cash,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,0,0,0,0,4.0,0.0,Credit Card,1,Friendly People
+95,2,Children,4.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+41,2,Friends/Relatives,1.0,1.0,Leisure and Holidays,Bird watching,"Radio, TV, Web",Package Tour,0,1,1,1,0,1,0,10.0,11.0,Cash,1,No comments
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,10.0,10.0,Credit Card,1,Friendly People
+103,1,Alone,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+100,0,Friends/Relatives,3.0,0.0,Scientific and Academic,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,64.0,0.0,Cash,1,No comments
+76,1,Friends/Relatives,3.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,0.0,9.0,Cash,1,"Wonderful Country, Landscape, Nature"
+88,2,Alone,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+99,1,,0.0,1.0,Leisure and Holidays,Conference tourism,others,Independent,0,0,0,0,0,0,0,10.0,9.0,Cash,1,Good service
+29,1,Spouse,1.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,7.0,7.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+31,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,0.0,20.0,Credit Card,1,Good service
+65,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,7.0,0.0,Cash,1, Wildlife
+68,1,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,9.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+77,1,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+69,1,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,0,1,1,0,0,0,0,5.0,0.0,Cash,0, Wildlife
+104,1,Alone,0.0,1.0,Business,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,
+83,2,,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Friendly People
+9,1,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,
+29,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,0,1,1,1,0,17.0,9.0,Cash,0,Friendly People
+74,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,12.0,0.0,Cash,1,Friendly People
+3,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1,Friendly People
+74,1,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,inflight magazines,Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,0,Good service
+83,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,2.0,0.0,Credit Card,0,Friendly People
+20,0,Friends/Relatives,2.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,10.0,7.0,Credit Card,0,Good service
+44,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+41,1,Alone,2.0,2.0,Leisure and Holidays,business,"Friends, relatives",Package Tour,1,1,0,1,0,0,0,0.0,11.0,Cash,0, Wildlife
+84,1,Spouse and Children,2.0,2.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,0.0,4.0,Cash,1, Wildlife
+100,1,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,others,Independent,0,0,0,0,0,0,0,2.0,1.0,Cash,0,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,1,12.0,0.0,Cash,1,Friendly People
+10,1,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,9.0,0.0,Cash,1,Good service
+84,1,Friends/Relatives,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,4.0,Cash,1, Wildlife
+99,1,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,0,0,1,0,11.0,0.0,Cash,1,Good service
+100,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,9.0,Cash,1,Friendly People
+21,1,,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,3.0,Credit Card,1, Wildlife
+103,1,Alone,0.0,1.0,Business,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+3,1,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,0,0,0,1,0,9.0,2.0,Cash,1,No comments
+96,2,Friends/Relatives,3.0,2.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,0.0,35.0,Cash,1,
+103,1,Alone,0.0,1.0,Other,Hunting tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,
+96,1,Friends/Relatives,1.0,1.0,Other,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,No comments
+83,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,Friendly People
+103,2,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,
+99,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,10.0,4.0,Cash,1, Wildlife
+100,0,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Other,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+99,2,,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,0,0,0,0,0,45.0,0.0,Credit Card,0,
+44,1,Spouse and Children,3.0,3.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,0,Friendly People
+44,2,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+99,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,3.0,3.0,Cash,1,No comments
+31,2,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,1,0,17.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,No comments
+41,0,Friends/Relatives,2.0,2.0,Leisure and Holidays,Cultural tourism,others,Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,No comments
+64,0,,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,1,1,1,1,1,1,0,6.0,0.0,Cash,1, Wildlife
+64,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,1,0,7.0,7.0,Cash,1, Wildlife
+8,1,Children,0.0,3.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,4.0,Cash,1, Wildlife
+13,0,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1, Wildlife
+40,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1,Friendly People
+103,1,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,0,Good service
+99,0,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+69,0,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+45,1,,1.0,0.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,0,1,1,0,2.0,0.0,Cash,0,No comments
+99,0,Alone,1.0,0.0,Volunteering,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,26.0,Cash,1, Wildlife
+44,2,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,5.0,0.0,Credit Card,0,No comments
+44,1,Alone,0.0,1.0,Business,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,0,Friendly People
+99,0,Friends/Relatives,1.0,1.0,Leisure and Holidays,Cultural tourism,others,Independent,0,0,0,0,0,0,0,5.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+88,2,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,10.0,0.0,Cash,0,Good service
+41,2,Friends/Relatives,3.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,0.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+88,1,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,0.0,Credit Card,0,Friendly People
+103,1,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,
+103,1,Friends/Relatives,0.0,2.0,Business,Bird watching,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,
+29,2,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,0,1,0,1,0,0,0,6.0,0.0,Cash,1,Friendly People
+3,0,,0.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,10.0,0.0,Cash,1,Friendly People
+91,2,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,
+89,0,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,17.0,0.0,Cash,0,Friendly People
+44,2,,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+39,0,,1.0,0.0,Volunteering,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,1,0,12.0,0.0,Cash,1,Friendly People
+100,0,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,1,Good service
+96,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,0,No comments
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,0,1,1.0,6.0,Cash,1,No comments
+9,0,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Excellent Experience
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,0,1,1,1,0,9.0,2.0,Cash,1, Wildlife
+99,1,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+64,0,,1.0,0.0,Leisure and Holidays,Bird watching,"Friends, relatives",Package Tour,0,1,1,0,0,1,0,10.0,4.0,Cash,1,"Wonderful Country, Landscape, Nature"
+64,1,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,4.0,0.0,Credit Card,0,Friendly People
+99,1,Alone,0.0,1.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,33.0,0.0,Cash,0,No comments
+77,0,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,Trade fair,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,No comments
+96,1,,0.0,1.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+70,2,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Friendly People
+44,0,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+100,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,14.0,0.0,Credit Card,1,Friendly People
+39,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,5.0,3.0,Cash,1,Friendly People
+96,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+29,2,Friends/Relatives,2.0,4.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,14.0,Cash,1, Wildlife
+100,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,No comments
+100,1,Alone,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,0,Good service
+103,2,,0.0,1.0,Business,Wildlife tourism,inflight magazines,Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,Friendly People
+103,1,Alone,0.0,1.0,Business,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Good service
+100,3,Friends/Relatives,0.0,3.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,0,Friendly People
+103,1,,1.0,0.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,6.0,0.0,Cash,1, Wildlife
+3,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,5.0,Cash,1, Wildlife
+41,1,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,0,0,0,1,0,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+5,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,14.0,Credit Card,1,Friendly People
+3,0,,1.0,0.0,Volunteering,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,0,1,1,1,30.0,0.0,Cash,1,Friendly People
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,No comments
+41,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,0,0,0,0,0,0,0.0,7.0,Cash,0,Good service
+100,1,,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,11.0,0.0,Credit Card,0,"Wonderful Country, Landscape, Nature"
+64,1,Spouse and Children,4.0,1.0,Leisure and Holidays,Wildlife tourism,Trade fair,Package Tour,1,1,1,1,1,1,0,10.0,5.0,Cash,1,Good service
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,4.0,6.0,Cash,1, Wildlife
+104,1,Friends/Relatives,3.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Good service
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,1,1,1,1,1,1,1,0.0,6.0,Cash,1,Friendly People
+31,0,Friends/Relatives,3.0,0.0,Leisure and Holidays,Cultural tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,130.0,10.0,Cash,1,No comments
+83,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,Friendly People
+35,1,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+41,2,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,0.0,Cash,0,No comments
+100,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,1,0,0,0,1,27.0,0.0,Cash,1,Friendly People
+9,1,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0, Wildlife
+65,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,1,0,0,0,3.0,3.0,Cash,1, Wildlife
+96,1,Spouse and Children,2.0,1.0,Meetings and Conference,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,5.0,Cash,0,Friendly People
+64,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,5.0,Cash,1,No comments
+99,0,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Good service
+44,2,Alone,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Good service
+100,1,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Package Tour,1,0,0,0,0,0,0,15.0,0.0,Cash,1,Friendly People
+89,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,10.0,5.0,Cash,1, Wildlife
+31,2,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,No comments
+99,0,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,11.0,4.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,2,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,1,1,1,1,0,0,0,12.0,4.0,Cash,1, Wildlife
+54,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,1,1,1,1,1,1,0,9.0,0.0,Cash,1, Wildlife
+96,2,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+103,2,Alone,0.0,1.0,Other,Hunting tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+100,0,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,2.0,12.0,Cash,1,Friendly People
+31,0,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,1,Friends/Relatives,6.0,5.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,0,1,1,0,1,16.0,5.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,3,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,12.0,0.0,Cash,1,Friendly People
+13,2,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,13.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+103,1,Spouse,1.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,Good service
+13,1,Friends/Relatives,1.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,3.0,1.0,Cash,0, Wildlife
+31,1,Friends/Relatives,3.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,12.0,Cash,0,Friendly People
+3,2,Friends/Relatives,2.0,0.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,0.0,Credit Card,1,Friendly People
+100,2,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,No comments
+99,0,Friends/Relatives,2.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,24.0,4.0,Cash,0, Wildlife
+100,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,4.0,Cash,1, Wildlife
+3,0,,0.0,1.0,Leisure and Holidays,Cultural tourism,others,Package Tour,0,1,1,1,1,1,0,9.0,4.0,Cash,1, Wildlife
+41,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,1,0.0,7.0,Cash,1,Excellent Experience
+100,0,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,1.0,Cash,1,Friendly People
+100,0,Alone,0.0,1.0,Volunteering,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,0,0,14.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+3,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,0,Excellent Experience
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,1,0.0,7.0,Cash,1,Excellent Experience
+69,1,Children,0.0,2.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,
+44,1,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+103,1,Alone,0.0,1.0,Business,Mountain climbing,others,Independent,0,0,0,0,0,0,0,7.0,0.0,Credit Card,1,No comments
+4,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,16.0,0.0,Cash,1,Friendly People
+64,2,Friends/Relatives,5.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,2.0,Cash,1,Friendly People
+84,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,7.0,Cash,1,No comments
+4,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,11.0,0.0,Cash,0,Friendly People
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,0.0,5.0,Credit Card,0, Wildlife
+99,2,,0.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,24.0,0.0,Cash,1,
+29,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,1,1,0,0,0,14.0,4.0,Cash,1,Friendly People
+3,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,1,0,16.0,5.0,Cash,1, Wildlife
+3,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,0.0,Cash,1, Wildlife
+99,0,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,61.0,0.0,Cash,0,Friendly People
+41,2,Friends/Relatives,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+29,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,9.0,4.0,Cash,1, Wildlife
+44,1,,0.0,1.0,Business,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,No comments
+43,1,,1.0,0.0,Scientific and Academic,Hunting tourism,others,Independent,0,0,0,0,0,0,0,11.0,0.0,Cash,0,Friendly People
+44,2,Alone,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,Good service
+10,2,Spouse and Children,2.0,0.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,1,No comments
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Credit Card,1,Friendly People
+39,2,Friends/Relatives,4.0,1.0,Visiting Friends and Relatives,Beach tourism,Trade fair,Independent,0,0,0,0,0,0,0,2.0,43.0,Cash,0,No comments
+29,1,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,0.0,14.0,Credit Card,0, Wildlife
+31,2,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,6.0,Cash,0, Wildlife
+65,2,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,0,0,0,0,0,24.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+29,2,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,7.0,6.0,Cash,1,
+99,1,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,9.0,0.0,Cash,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Hunting tourism,others,Independent,0,0,0,0,0,0,0,0.0,7.0,Cash,1, Wildlife
+63,1,Friends/Relatives,0.0,2.0,Visiting Friends and Relatives,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,12.0,0.0,Cash,0, Wildlife
+104,1,Alone,0.0,1.0,Business,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0, Wildlife
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,10.0,5.0,Cash,1,No comments
+83,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,0,0,1,0,0.0,7.0,Cash,1,Satisfies and Hope Come Back
+103,1,Alone,0.0,1.0,Business,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,No comments
+84,2,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,4.0,Cash,1,"Wonderful Country, Landscape, Nature"
+95,1,,1.0,0.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+99,0,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,12.0,4.0,Cash,1,Good service
+100,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1,Friendly People
+103,3,Alone,1.0,0.0,Business,Mountain climbing,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,0,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,9.0,5.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,11.0,4.0,Cash,1, Wildlife
+31,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,10.0,4.0,Credit Card,1, Wildlife
+95,1,Alone,1.0,0.0,Meetings and Conference,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,Good service
+99,2,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,No comments
+31,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,No comments
+44,1,Spouse and Children,4.0,3.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,1,1,0,0,0,0,7.0,0.0,Credit Card,1,Good service
+83,2,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,19.0,0.0,Credit Card,0,Friendly People
+99,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,1,1,0,0,14.0,0.0,Cash,0,Friendly People
+31,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,0.0,17.0,Cash,1,Friendly People
+100,1,Friends/Relatives,3.0,2.0,Leisure and Holidays,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,15.0,5.0,Cash,1,No comments
+31,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,6.0,Cash,1,No comments
+69,0,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+83,1,,0.0,1.0,Meetings and Conference,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,Friendly People
+41,2,Children,2.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,0.0,7.0,Cash,1,No comments
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,0,1,0.0,9.0,Cash,1, Wildlife
+44,1,,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,Good service
+99,2,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,4.0,4.0,Cash,1,Friendly People
+31,0,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,27.0,2.0,Cash,0,No comments
+96,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,59.0,0.0,Cash,0,Friendly People
+99,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,7.0,3.0,Cash,1,"Wonderful Country, Landscape, Nature"
+44,1,Children,0.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+100,1,Friends/Relatives,0.0,3.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,1,Friendly People
+83,3,Alone,0.0,1.0,Business,Mountain climbing,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+99,0,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,6.0,Cash,1, Wildlife
+41,0,Spouse,1.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,0.0,7.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Cultural tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+76,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,12.0,Credit Card,0,Good service
+96,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+100,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1, Wildlife
+103,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,3.0,Cash,0, Wildlife
+83,1,,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Package Tour,1,0,1,0,0,0,0,50.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+5,1,Alone,0.0,1.0,Volunteering,Hunting tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,70.0,0.0,Cash,0,Friendly People
+88,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,0,1,1,1,4.0,4.0,Credit Card,0, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,15.0,0.0,Cash,1,Friendly People
+53,1,Alone,1.0,0.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,1,
+99,0,,1.0,0.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,24.0,4.0,Other,1,Friendly People
+29,1,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,16.0,0.0,Cash,1,Friendly People
+10,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,7.0,4.0,Cash,1, Wildlife
+29,1,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,1,1,1,1,0,1,1,6.0,4.0,Cash,1,Good service
+44,1,,1.0,0.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+29,2,Alone,0.0,1.0,Leisure and Holidays,Hunting tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,1,6.0,0.0,Cash,1,Excellent Experience
+100,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,0,0,1,0,6.0,5.0,Credit Card,1, Wildlife
+96,1,,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+5,2,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,0,0,16.0,4.0,Cash,1,Friendly People
+31,1,Friends/Relatives,4.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,7.0,10.0,Cash,1,No comments
+83,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,12.0,Credit Card,1,No comments
+100,3,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,Friendly People
+89,2,,0.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+100,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,15.0,0.0,Cash,1, Wildlife
+100,0,,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,3.0,11.0,Cash,1,Good service
+96,3,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0, Wildlife
+24,2,,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+3,2,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,9.0,3.0,Cash,1,Friendly People
+22,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,1,
+83,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1, Wildlife
+41,1,Children,1.0,1.0,Other,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,0.0,3.0,Cash,1,No comments
+41,1,Friends/Relatives,3.0,1.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,20.0,0.0,Cash,1,Friendly People
+7,1,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,1,0,0,0,7.0,4.0,Cash,1, Wildlife
+100,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,11.0,0.0,Cash,1,Friendly People
+99,2,Spouse and Children,4.0,1.0,Leisure and Holidays,business,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,0.0,7.0,Credit Card,1,Good service
+99,0,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,30.0,0.0,Cash,1,Friendly People
+33,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,0.0,10.0,Cash,1,Friendly People
+69,1,,1.0,0.0,Visiting Friends and Relatives,Beach tourism,others,Independent,0,0,0,0,0,0,0,60.0,0.0,Cash,0, Wildlife
+89,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,9.0,0.0,Credit Card,0, Wildlife
+99,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,11.0,0.0,Cash,0,Friendly People
+96,1,,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+48,2,,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,9.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+64,2,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,17.0,3.0,Cash,1,Friendly People
+99,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,10.0,Credit Card,0,Friendly People
+100,3,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,0,1,1,0,15.0,0.0,Cash,0,Friendly People
+103,2,Alone,0.0,1.0,Business,business,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+54,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1,Good service
+88,1,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+83,2,,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,Friendly People
+99,1,Alone,1.0,0.0,Leisure and Holidays,Hunting tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,9.0,0.0,Cash,1,Good service
+41,2,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,0,0,3.0,4.0,Cash,0,Friendly People
+104,1,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+103,1,Alone,1.0,0.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,15.0,0.0,Cash,1, Wildlife
+100,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,0,4.0,0.0,Cash,1,Friendly People
+51,2,Friends/Relatives,6.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,6.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,6.0,0.0,Cash,1,Friendly People
+44,2,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,Friendly People
+103,1,Alone,0.0,1.0,Business,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,Friendly People
+95,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,10.0,2.0,Cash,1, Wildlife
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,0.0,7.0,Cash,1,Friendly People
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,0,0,12.0,6.0,Cash,1, Wildlife
+31,2,Children,1.0,2.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,0,12.0,0.0,Cash,0, Wildlife
+53,0,Alone,0.0,1.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,
+83,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,0,0,0,7.0,0.0,Cash,1,Friendly People
+99,0,,0.0,1.0,Leisure and Holidays,Conference tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+96,1,,0.0,1.0,Business,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+99,1,,1.0,0.0,Leisure and Holidays,Cultural tourism,others,Independent,0,0,0,0,0,0,0,14.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,,1.0,0.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,10.0,4.0,Cash,1,Friendly People
+100,2,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,1,1,0,0,3.0,0.0,Cash,1,Friendly People
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,6.0,3.0,Credit Card,1,No comments
+100,2,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,13.0,2.0,Cash,1,"Wonderful Country, Landscape, Nature"
+29,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,1,0,9.0,7.0,Cash,1, Wildlife
+100,1,Friends/Relatives,0.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,0,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,6.0,0.0,Credit Card,1, Wildlife
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,0,1,1,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+96,1,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+96,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,No comments
+89,3,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,13.0,0.0,Cash,1,
+103,1,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,Friendly People
+64,2,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Credit Card,0,
+65,1,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,1,1,1,1,0,6.0,0.0,Cash,1,Good service
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,14.0,0.0,Cash,1,Friendly People
+44,1,Friends/Relatives,1.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,1,No comments
+89,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,9.0,5.0,Cash,1,Friendly People
+100,2,,7.0,2.0,Scientific and Academic,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,0,14.0,0.0,Cash,1,Friendly People
+41,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,14.0,Cash,0,Friendly People
+100,1,Spouse and Children,1.0,2.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,No comments
+77,3,Alone,1.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,2.0,Cash,1,"Wonderful Country, Landscape, Nature"
+28,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,5.0,5.0,Cash,1,Friendly People
+3,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,0.0,Cash,1, Wildlife
+9,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,
+83,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,10.0,Credit Card,1,Friendly People
+41,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,2,Friends/Relatives,5.0,7.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,3.0,Cash,0,Friendly People
+84,2,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,2.0,0.0,Cash,1, Wildlife
+84,2,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,0,1,1,1,0,7.0,3.0,Cash,1, Wildlife
+10,2,Children,3.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,0,No comments
+9,0,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,
+84,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,
+99,2,Children,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,6.0,Cash,1,Friendly People
+9,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Excellent Experience
+33,2,Friends/Relatives,0.0,2.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+29,0,,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,Friendly People
+41,1,Friends/Relatives,1.0,2.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,0.0,7.0,Cash,1,No comments
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+100,1,Friends/Relatives,3.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,1,0,12.0,3.0,Credit Card,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,0.0,Credit Card,1, Wildlife
+99,2,Friends/Relatives,6.0,6.0,Visiting Friends and Relatives,Hunting tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,0.0,Cash,0,Friendly People
+83,1,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,1,0,0,0,0,0,0,3.0,0.0,Credit Card,0,
+96,1,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,2.0,Cash,1,Friendly People
+29,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,16.0,5.0,Cash,1,Friendly People
+104,1,Alone,1.0,0.0,Business,Beach tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+89,0,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,No comments
+41,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,5.0,0.0,Cash,1,Good service
+41,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,Friendly People
+64,2,Spouse and Children,1.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,14.0,4.0,Cash,0, Wildlife
+98,2,Friends/Relatives,0.0,2.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,4.0,Cash,1, Wildlife
+99,0,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,6.0,7.0,Cash,1, Wildlife
+21,2,Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,1,0,0,6.0,7.0,Cash,1, Wildlife
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,21.0,4.0,Cash,0,Excellent Experience
+99,0,Spouse,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,5.0,Cash,0,
+104,1,Spouse,1.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Excellent Experience
+44,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+104,1,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+4,2,Children,2.0,1.0,Meetings and Conference,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,1,1,1,1,0,6.0,0.0,Cash,1,Friendly People
+99,1,Children,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Credit Card,0,Good service
+41,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1, Wildlife
+100,1,,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,No comments
+41,1,Friends/Relatives,2.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,1,0,7.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,0,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,0,0,0,0,1,5.0,0.0,Cash,1,Friendly People
+31,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,6.0,3.0,Cash,1, Wildlife
+96,0,Alone,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,1,
+80,1,Friends/Relatives,2.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,0,0,1,1,0,12.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,12.0,0.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,9.0,0.0,Credit Card,1, Wildlife
+99,2,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,13.0,0.0,Cash,1,Good service
+99,2,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,7.0,Cash,1,Friendly People
+53,1,Alone,0.0,1.0,Other,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,20.0,0.0,Cash,1,
+10,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,7.0,0.0,Credit Card,1, Wildlife
+39,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,60.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,1,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,0,2.0,0.0,Credit Card,1,No comments
+35,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,Good service
+21,0,Friends/Relatives,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,10.0,6.0,Cash,1,Friendly People
+3,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,others,Independent,0,0,0,0,0,0,0,11.0,3.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+31,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,0,1,1,1,0,1,0,9.0,0.0,Cash,1,Good service
+9,0,,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,1,No comments
+96,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,Trade fair,Independent,0,0,0,0,0,0,0,70.0,0.0,Cash,0,Friendly People
+100,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Other,0,Friendly People
+13,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,0,1,1,1,1,1,1,5.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+35,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,0,1,1,1,12.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+64,1,Friends/Relatives,2.0,0.0,Business,Wildlife tourism,others,Package Tour,0,1,1,1,0,0,0,5.0,0.0,Credit Card,1,Friendly People
+100,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,19.0,0.0,Cash,1, Wildlife
+104,0,Friends/Relatives,0.0,2.0,Business,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+83,1,,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,1,Friendly People
+13,2,Friends/Relatives,1.0,5.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,0,0,0,0,10.0,0.0,Cash,1,No comments
+31,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,0,0,0,0,0,0,0.0,7.0,Cash,1,Friendly People
+100,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,0.0,Cash,1,No comments
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,5.0,3.0,Cash,1,No comments
+104,1,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+99,3,,1.0,0.0,Visiting Friends and Relatives,Bird watching,"Friends, relatives",Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,7.0,5.0,Cash,1, Wildlife
+100,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,0,1,1,1,0,14.0,0.0,Cash,1,Friendly People
+31,2,,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,1,0,12.0,0.0,Cash,0,Friendly People
+100,1,Alone,1.0,0.0,Visiting Friends and Relatives,Bird watching,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+29,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,1,0,0,0,0,0,0,15.0,0.0,Cash,1,No comments
+5,0,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,11.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+64,3,Spouse and Children,5.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,16.0,0.0,Cash,1,Friendly People
+10,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,0,1,1,1,0,13.0,7.0,Cash,1, Wildlife
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,No comments
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,12.0,Cash,1, Wildlife
+83,2,Alone,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,0,1,0,0,0,2.0,0.0,Cash,0,Friendly People
+3,0,Alone,0.0,0.0,Leisure and Holidays,Hunting tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,15.0,5.0,Cash,1,Friendly People
+40,1,,0.0,1.0,Meetings and Conference,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,37.0,0.0,Cash,0,No comments
+44,0,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+99,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,0,1.0,13.0,Credit Card,0,Friendly People
+39,2,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,1,Friendly People
+10,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,Tanzania Mission Abroad,Package Tour,0,1,1,1,1,0,0,14.0,5.0,Cash,1, Wildlife
+44,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+31,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,0.0,16.0,Cash,0,Friendly People
+83,2,Friends/Relatives,0.0,3.0,Business,Wildlife tourism,Trade fair,Independent,0,0,0,0,0,0,0,4.0,0.0,Credit Card,0,Friendly People
+83,1,Spouse,1.0,1.0,Leisure and Holidays,business,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,0.0,7.0,Cash,1,Friendly People
+24,2,Children,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+4,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,12.0,0.0,Cash,1, Wildlife
+103,1,Friends/Relatives,3.0,0.0,Other,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,No comments
+99,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Beach tourism,Trade fair,Independent,0,0,0,0,0,0,0,0.0,13.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Good service
+24,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,0,Friendly People
+96,1,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,Trade fair,Independent,0,0,0,0,0,0,0,27.0,0.0,Cash,0,Friendly People
+31,1,,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Friendly People
+82,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,0.0,14.0,Credit Card,1,Friendly People
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Bird watching,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,10.0,3.0,Cash,1, Wildlife
+41,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,5.0,0.0,Cash,1,Friendly People
+100,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,6.0,Cash,1, Wildlife
+100,3,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,Trade fair,Package Tour,0,1,1,1,1,1,0,6.0,0.0,Credit Card,1, Wildlife
+41,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,6.0,Credit Card,1,
+64,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,6.0,9.0,Cash,1, Wildlife
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+100,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,11.0,1.0,Credit Card,1,Good service
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,No comments
+96,1,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,1.0,0.0,Credit Card,1,
+103,1,Friends/Relatives,2.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+100,2,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,10.0,0.0,Cash,1,No comments
+104,1,Friends/Relatives,0.0,2.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,No comments
+95,2,Alone,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,9.0,0.0,Cash,0,Satisfies and Hope Come Back
+100,1,,1.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,0.0,Cash,1,Friendly People
+39,0,,0.0,1.0,Volunteering,Cultural tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,12.0,0.0,Cash,1,Friendly People
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,0,0,6.0,4.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,Friendly People
+100,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,1,0,0,7.0,0.0,Cash,1,Friendly People
+31,2,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,4.0,Cash,1,Friendly People
+3,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,0.0,Cash,1,Friendly People
+43,0,,1.0,0.0,Scientific and Academic,Hunting tourism,others,Package Tour,0,1,1,0,0,1,0,3.0,0.0,Cash,1,Good service
+100,2,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,9.0,0.0,Cash,1, Wildlife
+95,0,Friends/Relatives,2.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,0,Good service
+99,3,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,0,1,1,0,0,0,3.0,0.0,Cash,0,Excellent Experience
+64,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,22.0,Cash,1,No comments
+84,2,Friends/Relatives,7.0,,Other,Hunting tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,1,11.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+64,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,0,5.0,3.0,Cash,1, Wildlife
+41,2,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,1,0,1,0,0,6.0,5.0,Cash,1,Excellent Experience
+37,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,0,0,0,1,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,
+96,2,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Good service
+29,1,Spouse and Children,3.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,5.0,Cash,1, Wildlife
+10,2,Spouse and Children,1.0,3.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,13.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+72,3,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,1,1,1,1,0,17.0,0.0,Cash,1,Excellent Experience
+103,1,Alone,1.0,0.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+96,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+31,2,Spouse and Children,3.0,3.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,1,1,5.0,7.0,Cash,1,No comments
+29,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,12.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+35,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,
+103,1,Alone,0.0,1.0,Other,Hunting tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0, Wildlife
+99,0,Friends/Relatives,0.0,2.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,0,10.0,0.0,Cash,1,Friendly People
+13,0,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,10.0,5.0,Cash,1,Excellent Experience
+100,2,Spouse and Children,4.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,9.0,0.0,Cash,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Credit Card,0,No comments
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0, Wildlife
+41,1,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,5.0,0.0,Cash,1, Wildlife
+9,1,Children,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+40,0,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,36.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,0,,1.0,0.0,Volunteering,Cultural tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,70.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+44,1,Spouse and Children,2.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,0,"Wonderful Country, Landscape, Nature"
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,10.0,0.0,Cash,1, Wildlife
+10,0,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,Good service
+5,0,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,40.0,0.0,Cash,0,Good service
+13,1,,0.0,1.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+84,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,5.0,Cash,1,No comments
+25,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,7.0,Cash,1,No comments
+96,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+43,0,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,3.0,0.0,Cash,1,Excellent Experience
+83,1,Alone,0.0,1.0,Business,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Excellent Experience
+104,1,Friends/Relatives,0.0,2.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,6.0,Cash,1, Wildlife
+89,2,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,14.0,7.0,Cash,1,No comments
+103,2,Friends/Relatives,1.0,2.0,Meetings and Conference,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Good service
+83,1,Alone,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+31,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,14.0,5.0,Cash,1,No comments
+100,1,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,Trade fair,Package Tour,0,0,1,0,1,1,0,5.0,3.0,Cash,1,Friendly People
+99,0,,1.0,0.0,Volunteering,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,70.0,0.0,Cash,1, Wildlife
+44,1,Friends/Relatives,1.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Credit Card,0,Good service
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,Trade fair,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,1,4.0,2.0,Cash,0, Wildlife
+44,1,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+35,1,Friends/Relatives,3.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,12.0,4.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,0,1,1,1,1,1,1,13.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,0,0,0,1,1,0,9.0,3.0,Cash,1, Wildlife
+95,1,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,2.0,Cash,0,Good service
+96,1,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+100,2,Spouse and Children,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,0,1,10.0,0.0,Cash,1,Friendly People
+103,1,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,Friendly People
+100,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,9.0,0.0,Cash,1, Wildlife
+100,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,3.0,4.0,Cash,1,No comments
+44,0,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0, Wildlife
+83,2,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,2.0,Credit Card,1,Good service
+41,1,Friends/Relatives,6.0,4.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,0,0.0,9.0,Credit Card,0, Wildlife
+41,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,10.0,0.0,Cash,1, Wildlife
+29,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,1,1,0,1,1,1,0,7.0,6.0,Credit Card,1,Excellent Experience
+64,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,0,1,0,1,1,1,0,10.0,5.0,Cash,1, Wildlife
+69,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,11.0,0.0,Credit Card,0,Excellent Experience
+41,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,0,0,0,0,0.0,7.0,Cash,1, Wildlife
+83,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,3.0,Credit Card,1,No comments
+69,2,Friends/Relatives,0.0,2.0,Business,Mountain climbing,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,0,Excellent Experience
+95,1,Alone,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,2.0,Cash,0,Excellent Experience
+97,1,Alone,1.0,0.0,Volunteering,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,Friendly People
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,5.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+44,2,Alone,1.0,0.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+104,1,,0.0,1.0,Other,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,
+45,1,,1.0,0.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,1,3.0,1.0,Credit Card,0,No comments
+103,2,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+31,1,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,1,0,9.0,3.0,Cash,1,Excellent Experience
+10,2,Children,2.0,0.0,Visiting Friends and Relatives,Wildlife tourism,"Radio, TV, Web",Package Tour,1,0,0,0,1,0,0,14.0,5.0,Cash,1,Friendly People
+103,1,Friends/Relatives,0.0,2.0,Business,Cultural tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Good service
+99,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,0,1,0,9.0,0.0,Cash,1,Friendly People
+104,1,Alone,0.0,1.0,Business,Mountain climbing,Trade fair,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,
+104,1,Alone,0.0,1.0,Business,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,
+44,2,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Excellent Experience
+84,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,0,6.0,2.0,Cash,1,Friendly People
+104,1,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+3,1,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Conference tourism,others,Independent,0,0,0,0,0,0,0,26.0,0.0,Cash,1,Excellent Experience
+31,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,others,Package Tour,1,1,1,0,0,0,0,0.0,10.0,Cash,0,Satisfies and Hope Come Back
+41,0,Friends/Relatives,2.0,2.0,Visiting Friends and Relatives,business,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,0,0,0.0,7.0,Cash,1,Excellent Experience
+3,2,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Package Tour,1,1,1,1,1,1,0,12.0,4.0,Cash,1, Wildlife
+35,2,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,1.0,Credit Card,0,"Wonderful Country, Landscape, Nature"
+31,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,others,Package Tour,1,1,1,1,0,1,1,0.0,13.0,Credit Card,0,Friendly People
+95,1,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+70,1,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+83,1,Friends/Relatives,0.0,2.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,No comments
+29,1,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,4.0,3.0,Cash,1,No comments
+100,3,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,2.0,Credit Card,1,Friendly People
+31,1,,1.0,0.0,Meetings and Conference,Wildlife tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+41,2,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,14.0,Cash,0,Excellent Experience
+41,2,Children,0.0,2.0,Meetings and Conference,Bird watching,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,4.0,Cash,0,No comments
+95,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,Trade fair,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+69,1,Friends/Relatives,0.0,3.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,19.0,0.0,Cash,0,No comments
+99,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,0,0,0,9.0,0.0,Cash,0, Wildlife
+31,1,Friends/Relatives,1.0,2.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Package Tour,1,1,0,1,1,0,0,17.0,3.0,Cash,1,
+99,0,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,12.0,3.0,Cash,1,Friendly People
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,5.0,7.0,Cash,1, Wildlife
+64,2,Children,1.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,0,No comments
+39,2,Friends/Relatives,1.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,0,1,1,1,1,1,0,10.0,0.0,Cash,1,Friendly People
+104,2,Spouse and Children,2.0,2.0,Leisure and Holidays,Beach tourism,others,Independent,0,0,0,0,0,0,0,1.0,6.0,Cash,1,Friendly People
+103,1,Alone,0.0,1.0,Scientific and Academic,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1, Wildlife
+5,0,Alone,0.0,1.0,Leisure and Holidays,Hunting tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,10.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,3,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,11.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+10,2,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,41.0,0.0,Cash,0,Friendly People
+64,0,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,6.0,4.0,Cash,0,"Wonderful Country, Landscape, Nature"
+78,1,,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+64,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,12.0,4.0,Credit Card,1, Wildlife
+84,2,,1.0,0.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,5.0,3.0,Cash,1,Friendly People
+88,2,,1.0,0.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+100,1,Alone,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+84,1,Friends/Relatives,2.0,3.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,12.0,3.0,Travellers Cheque,1,No comments
+100,2,Friends/Relatives,0.0,3.0,Volunteering,Beach tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,1, Wildlife
+45,1,,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,9.0,0.0,Cash,0,No comments
+29,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,1,10.0,5.0,Cash,1,No comments
+83,1,,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,1,Friendly People
+99,2,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,5.0,0.0,Credit Card,0,Friendly People
+83,2,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,11.0,Cash,0, Wildlife
+104,1,Spouse,1.0,1.0,Business,Mountain climbing,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,
+54,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,0,0,9.0,0.0,Cash,1,Good service
+44,1,,0.0,1.0,Meetings and Conference,Mountain climbing,others,Independent,0,0,0,0,0,0,0,55.0,0.0,Cash,1,Friendly People
+57,1,,1.0,0.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,10.0,0.0,Credit Card,0, Wildlife
+96,1,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1, Wildlife
+100,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,5.0,0.0,Cash,1, Wildlife
+3,3,Friends/Relatives,0.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,5.0,0.0,Credit Card,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,1,Friendly People
+96,1,,0.0,1.0,Business,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+31,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Credit Card,1,No comments
+31,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,17.0,4.0,Cash,0, Wildlife
+89,0,Friends/Relatives,2.0,0.0,Leisure and Holidays,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,11.0,2.0,Cash,1,No comments
+103,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,0.0,Cash,0,Good service
+84,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,0,1,1,1,1,3.0,4.0,Cash,1, Wildlife
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,7.0,6.0,Cash,1,No comments
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,17.0,0.0,Credit Card,1, Wildlife
+13,0,,0.0,1.0,Volunteering,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+35,2,,0.0,1.0,Meetings and Conference,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,No comments
+83,2,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,21.0,0.0,Cash,0,No comments
+103,1,Alone,1.0,0.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,Friendly People
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,1,5.0,4.0,Cash,1,Friendly People
+29,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,4.0,5.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,6.0,6.0,Cash,1,Friendly People
+99,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,22.0,4.0,Cash,1,Friendly People
+13,3,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,0.0,7.0,Credit Card,1,No comments
+69,1,,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,90.0,0.0,Cash,1,Excellent Experience
+16,2,Alone,0.0,1.0,Business,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+104,1,Alone,0.0,1.0,Business,Hunting tourism,inflight magazines,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,No comments
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,21.0,3.0,Cash,1,Excellent Experience
+103,0,Alone,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+83,1,Alone,0.0,1.0,Business,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,No comments
+104,1,Alone,0.0,1.0,Business,Beach tourism,others,Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+13,2,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,Friendly People
+99,1,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,90.0,0.0,Cash,0,Friendly People
+9,1,Friends/Relatives,2.0,0.0,Meetings and Conference,Hunting tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+77,0,,0.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+83,2,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,0,4.0,0.0,Cash,1,Friendly People
+29,2,Spouse,1.0,1.0,Leisure and Holidays,Cultural tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,0.0,13.0,Cash,0,Friendly People
+100,1,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,0,1,0,1,0,9.0,0.0,Cash,1,Good service
+103,1,Alone,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,No comments
+2,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,6.0,3.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+83,3,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,1,Spouse and Children,3.0,2.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Credit Card,0,Friendly People
+44,1,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,2.0,Cash,0,Friendly People
+39,0,Spouse and Children,3.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,0,1,1,0.0,5.0,Cash,0, Wildlife
+73,2,Children,1.0,1.0,Leisure and Holidays,Diving and Sport Fishing,others,Independent,0,0,0,0,0,0,0,19.0,0.0,Credit Card,1,Good service
+64,1,Alone,1.0,0.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,Excellent Experience
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,1,1,0.0,7.0,Credit Card,1, Wildlife
+84,1,Friends/Relatives,4.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,1,1,7.0,5.0,Cash,1, Wildlife
+77,0,Alone,1.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+100,3,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,7.0,0.0,Cash,1, Wildlife
+99,0,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,13.0,3.0,Cash,0,Good service
+3,2,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,0,1,0,1,1,0,0,20.0,0.0,Credit Card,1,"Wonderful Country, Landscape, Nature"
+44,1,Alone,1.0,0.0,Meetings and Conference,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,No comments
+81,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,1, Wildlife
+35,1,Alone,0.0,1.0,Other,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+41,1,Friends/Relatives,3.0,3.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,14.0,Cash,1,No comments
+99,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,14.0,0.0,Cash,1,Friendly People
+31,3,Spouse and Children,2.0,1.0,Leisure and Holidays,Conference tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,0,0,14.0,0.0,Cash,1,Good service
+100,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+44,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,others,Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1, Wildlife
+29,2,Children,4.0,4.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,1,1,12.0,0.0,Cash,1,
+3,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,15.0,0.0,Cash,1,Friendly People
+100,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,inflight magazines,Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1,Friendly People
+99,0,,0.0,1.0,Other,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,No comments
+44,1,Alone,0.0,1.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+10,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,9.0,3.0,Cash,1,"Wonderful Country, Landscape, Nature"
+29,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,12.0,0.0,Cash,1,Friendly People
+29,2,Children,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,9.0,5.0,Credit Card,1,Excellent Experience
+83,1,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,1,Friendly People
+99,0,,1.0,0.0,Leisure and Holidays,business,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,27.0,0.0,Cash,1, Wildlife
+31,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,0,0,5.0,0.0,Cash,1, Wildlife
+100,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,6.0,2.0,Credit Card,1, Wildlife
+29,2,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,No comments
+103,1,Alone,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,0,Friendly People
+99,2,Spouse and Children,4.0,3.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,7.0,0.0,Cash,0,Friendly People
+104,1,,0.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+31,1,Alone,0.0,1.0,Scientific and Academic,Hunting tourism,"Friends, relatives",Package Tour,1,1,0,0,0,0,0,23.0,0.0,Cash,1,Friendly People
+99,1,Spouse and Children,1.0,3.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,Friendly People
+29,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,4.0,Cash,1,Friendly People
+31,2,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,1,Friendly People
+103,1,Children,0.0,3.0,Other,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,29.0,0.0,Cash,0, Wildlife
+100,1,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,Friendly People
+41,1,Friends/Relatives,1.0,3.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,6.0,4.0,Credit Card,1,Good service
+77,1,,0.0,1.0,Visiting Friends and Relatives,Cultural tourism,others,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1, Wildlife
+41,2,Spouse,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,0,1,0,0,12.0,0.0,Cash,1, Wildlife
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,0,0,0,0.0,7.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,1,Friends/Relatives,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,Friendly People
+88,2,Friends/Relatives,0.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,9.0,2.0,Cash,0,Friendly People
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,5.0,5.0,Cash,1, Wildlife
+99,1,,1.0,0.0,Visiting Friends and Relatives,Cultural tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,3.0,Credit Card,0,Friendly People
+41,3,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,0.0,Credit Card,1,Excellent Experience
+96,1,,0.0,1.0,Other,Hunting tourism,others,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Good service
+100,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,7.0,0.0,Cash,1,Friendly People
+43,0,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,3.0,0.0,Cash,1, Wildlife
+100,0,Friends/Relatives,0.0,2.0,Scientific and Academic,Hunting tourism,"Radio, TV, Web",Package Tour,0,1,1,0,0,1,0,14.0,0.0,Credit Card,1,Friendly People
+3,2,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,6.0,0.0,Credit Card,1, Wildlife
+29,2,Spouse and Children,1.0,2.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,9.0,5.0,Cash,1,Excellent Experience
+64,1,Friends/Relatives,2.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,7.0,4.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+3,2,,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,1,1,0,0,13.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,1,Spouse and Children,3.0,2.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,9.0,4.0,Cash,1, Wildlife
+99,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Credit Card,0,Friendly People
+87,0,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,14.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+104,2,Spouse,2.0,1.0,Other,Hunting tourism,Tanzania Mission Abroad,Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,
+99,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,1.0,Cash,1, Wildlife
+41,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,7.0,0.0,Cash,1, Wildlife
+84,2,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,4.0,4.0,Cash,1, Wildlife
+99,0,Alone,0.0,1.0,Leisure and Holidays,Cultural tourism,others,Package Tour,0,1,1,1,0,0,0,13.0,0.0,Cash,0, Wildlife
+96,1,Friends/Relatives,2.0,0.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+41,0,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,0.0,6.0,Cash,1,"Wonderful Country, Landscape, Nature"
+31,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,0,1,0,0,1,9.0,5.0,Cash,1,No comments
+31,1,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,0,1,1,1,7.0,7.0,Cash,1,No comments
+83,2,,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,14.0,0.0,Credit Card,0,Friendly People
+44,1,,0.0,1.0,Meetings and Conference,Wildlife tourism,Trade fair,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+95,2,Spouse and Children,5.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Independent,0,0,0,0,0,0,0,9.0,5.0,Cash,1, Wildlife
+35,2,Alone,0.0,1.0,Business,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+29,1,Spouse and Children,3.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,0,1,0,11.0,7.0,Cash,1,Friendly People
+84,0,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,Good service
+3,3,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,0,23.0,0.0,Cash,1,Friendly People
+25,1,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,5.0,Cash,1,Excellent Experience
+83,2,Friends/Relatives,2.0,3.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,0,Friendly People
+100,0,Friends/Relatives,2.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,5.0,0.0,Credit Card,1, Wildlife
+44,1,,0.0,1.0,Business,Wildlife tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,6.0,0.0,Credit Card,0,Good service
+83,1,,0.0,1.0,Meetings and Conference,Beach tourism,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,6.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+13,1,Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,3.0,6.0,Cash,1,Good service
+99,0,Friends/Relatives,1.0,2.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,7.0,Cash,1,Friendly People
+35,1,,0.0,1.0,Meetings and Conference,Beach tourism,others,Independent,0,0,0,0,0,0,0,0.0,4.0,Credit Card,1, Wildlife
+64,2,Alone,0.0,1.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,0,Friendly People
+69,0,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,30.0,0.0,Cash,0, Wildlife
+41,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,0.0,5.0,Credit Card,1, Wildlife
+41,1,Friends/Relatives,2.0,2.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Package Tour,1,1,1,1,0,0,1,0.0,7.0,Cash,1,No comments
+44,2,,1.0,3.0,Meetings and Conference,Mountain climbing,"Travel, agent, tour operator",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,Good service
+103,1,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,0.0,Cash,0,Friendly People
+29,0,Friends/Relatives,2.0,2.0,Volunteering,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,No comments
+69,2,Friends/Relatives,1.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,4.0,5.0,Cash,0,No comments
+100,1,,0.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,1,1,1,15.0,0.0,Cash,1,Friendly People
+96,2,,0.0,1.0,Meetings and Conference,Mountain climbing,Trade fair,Package Tour,1,1,1,0,1,0,0,5.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+13,3,,1.0,0.0,Leisure and Holidays,Wildlife tourism,Tanzania Mission Abroad,Package Tour,1,1,1,0,1,1,1,20.0,0.0,Cash,1,Friendly People
+35,1,,0.0,1.0,Meetings and Conference,Mountain climbing,"Friends, relatives",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,0,"Wonderful Country, Landscape, Nature"
+29,1,Alone,1.0,0.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,2.0,Cash,1,"Wonderful Country, Landscape, Nature"
+100,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,13.0,0.0,Cash,1,No comments
+104,1,Friends/Relatives,0.0,2.0,Other,Hunting tourism,"Newspaper, magazines,brochures",Independent,0,0,0,0,0,0,0,1.0,0.0,Cash,1, Wildlife
+99,1,Alone,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,10.0,0.0,Cash,0,Friendly People
+41,1,Friends/Relatives,1.0,1.0,Leisure and Holidays,Beach tourism,"Travel, agent, tour operator",Package Tour,1,1,1,1,0,0,0,0.0,7.0,Cash,1,No comments
+44,1,,0.0,1.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,1,"Wonderful Country, Landscape, Nature"
+99,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,others,Package Tour,0,1,1,1,1,1,0,11.0,3.0,Cash,1,Friendly People
+77,1,,0.0,1.0,Meetings and Conference,Conference tourism,others,Independent,1,1,1,0,0,0,0,11.0,0.0,Cash,1,Friendly People
+44,1,,1.0,0.0,Business,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,3.0,Credit Card,0,Friendly People
+3,2,Spouse,1.0,1.0,Leisure and Holidays,Conference tourism,others,Package Tour,0,1,1,1,1,1,1,11.0,0.0,Cash,0,Friendly People
+100,0,Alone,1.0,0.0,Scientific and Academic,Cultural tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,1,50.0,6.0,Cash,1,Excellent Experience
+99,1,Alone,1.0,0.0,Business,Wildlife tourism,inflight magazines,Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Good service
+99,1,Alone,1.0,0.0,Leisure and Holidays,Cultural tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,10.0,4.0,Cash,1,"Wonderful Country, Landscape, Nature"
+31,1,Spouse and Children,2.0,3.0,Leisure and Holidays,Wildlife tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,0,0,0,16.0,5.0,Cash,0, Wildlife
+100,3,Alone,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1, Wildlife
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Wildlife tourism,"Travel, agent, tour operator",Package Tour,0,1,1,1,1,1,0,4.0,0.0,Cash,1,No comments
+31,2,Alone,1.0,0.0,Visiting Friends and Relatives,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,5.0,0.0,Cash,1,
+41,2,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,0,0,0,0,0.0,14.0,Cash,1,Good service
+31,2,Alone,0.0,1.0,Leisure and Holidays,Beach tourism,"Newspaper, magazines,brochures",Package Tour,1,1,1,1,1,1,1,0.0,10.0,Credit Card,1,Friendly People
+84,1,,1.0,0.0,Leisure and Holidays,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,15.0,5.0,Cash,0, Wildlife
+103,1,Alone,0.0,1.0,Visiting Friends and Relatives,Wildlife tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,0,Friendly People
+69,1,Spouse,1.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,46.0,0.0,Cash,0,Excellent Experience
+99,1,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,0.0,3.0,Cash,0,Friendly People
+31,1,Alone,0.0,1.0,Leisure and Holidays,Conference tourism,"Friends, relatives",Package Tour,0,1,1,1,0,1,0,16.0,0.0,Credit Card,1,Excellent Experience
+100,2,Spouse,1.0,1.0,Leisure and Holidays,Beach tourism,"Friends, relatives",Package Tour,1,1,1,1,1,1,0,5.0,3.0,Cash,1, Wildlife
+41,2,Spouse and Children,2.0,1.0,Leisure and Holidays,Beach tourism,"Radio, TV, Web",Package Tour,1,1,1,1,1,1,1,6.0,6.0,Cash,1,Friendly People
+44,1,,0.0,1.0,Visiting Friends and Relatives,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,2.0,0.0,Cash,1,Friendly People
+88,1,Alone,1.0,0.0,Leisure and Holidays,Hunting tourism,"Friends, relatives",Independent,0,0,0,0,0,0,0,3.0,0.0,Cash,0,
+47,0,,1.0,0.0,Visiting Friends and Relatives,Wildlife tourism,others,Independent,0,0,0,0,0,0,0,11.0,0.0,Cash,1,Friendly People
